@@ -1,0 +1,256 @@
+ecdfef2e-2307-64b7-6ace-812818693756	com.magicgames.tankswar.hardpack.special1	40 Diamonds Special	1	40	0
+dd2e3300-58ec-549c-d9c2-c629a1de925c	com.magicgames.tankswar.hardpack1	40 Diamonds	2	40	0
+c79434dc-de52-f404-2b34-c057d3741fb2	com.magicgames.tankswar.hardpack2	110 Diamonds	5	110	0
+9d07726f-0d6f-7480-09fd-a0139785a733	com.magicgames.tankswar.hardpack3	240 Diamonds	10	240	0
+ddc32131-c9f0-f42a-79df-46f7642c8b35	com.magicgames.tankswar.hardpack4	550 Diamonds	20	550	0
+8e6f6aa9-d344-e4ee-a977-bab293961fe7	com.magicgames.tankswar.hardpack5	1700 Diamonds	50	1700	0
+6eec716b-70b7-d463-78e5-c3db8c42b474	com.magicgames.tankswar.hardpack6	4500 Diamonds	100	4500	0
+97a512a4-7136-749d-982e-ab9d87bc568f	com.magicgames.tankswar.softpack1	40.000 Coins	2	0	40000
+ddbe4c98-65dd-44d3-4883-6dec27a1ed52	com.magicgames.tankswar.softpack2	125.000 Coins	5	0	125000
+d22fd099-4c61-b418-2801-69797ee1bfe3	com.magicgames.tankswar.softpack3	310.000 Coins	10	0	310000
+5b6ad4c8-8bf1-b43c-28d3-3a6752ba8728	com.magicgames.tankswar.softpack4	860.000 Coins	20	0	860000
+f08c4d7e-1d57-0401-5a16-996044bb7dd5	com.magicgames.tankswar.softpack5	2.800.000 Coins	50	0	2800000
+8b570d20-b3bc-94ea-6bb8-befd4ee47afb	com.magicgames.tankswar.softpack6	8.000.000 Coins	100	0	8000000
+9220ce75-f93c-24b0-4b63-9bf1e1f168f2	com.magicgames.tankswar.vippack1	5 Diamonds + 1 Day VIP	1	5	0
+a88659b9-6469-342b-fb0b-7912aee6f77f	com.magicgames.tankswar.vippack2	30 Diamonds + 3 Days VIP	3	30	0
+4c797ae2-4d66-64fa-d8a5-6be89f45c679	com.magicgames.tankswar.vippack3	100 Diamonds + 7 Days VIP	7	100	0
+8b2ed806-9485-346b-cbbe-46270088d000	com.magicgames.tankswar.vippack4	220 Diamonds + 30 Days VIP	18	220	0
+faaa6494-123a-34e9-0a39-28c43c26f7c3	com.magicgames.tankswar.vippack5	300 Diamonds + 180 Days VIP	45	300	0
+4cbbe1b4-16d0-84f6-3bf9-3a6b2e65068d	com.magicgames.tankswar.vippack6	400 Diamonds + 360 Days VIP	70	400	0
+ff8a8b97-3a48-4448-b9a2-02f3e0dbbfa7	com.magicgames.tankswar.changenick	Change Nickname	5	0	0
+2ed2bd1e-f43f-44ee-38aa-a8bcc0d142c1	com.magicgames.tankswar.subscription.yearly	Yearly Premium Subscription	100	0	0
+684b3e7f-2d0f-4411-8a33-f5f8aee50c8c	com.magicgames.tankswar.subscription.monthly	Monthly Premium Subscription	20	0	0
+2da17cf9-7a03-d4dc-7976-aeeb973acd93	com.magicgames.tankswar.subscription.weekly	Weekly Premium Subscription	0	0	0
+aa9053a3-89ba-c4e7-baf0-14cfe63dd65a	com.magicgames.tankswar.subscription.weekly_new	New Weekly Premium Subscription	8	0	0
+cadfa8f5-f545-f4f4-8ad2-1cf733ed05e3	com.magicgames.tankswar.subscriptiontest	Weekly Premium Subscription Test	8	50	0
+6be8f232-0e52-4439-4943-a560fcb58e97	com.magicgames.tankswar.offers.subscription01	Offer Subscription 1		50	0
+797c7ba7-f790-b471-68e1-99a0e65ccdf9	com.magicgames.tankswar.offers.subscription02	Offer Subscription 2		100	0
+409fe0a9-3b7d-4442-8bd4-5395744dffff	com.magicgames.tankswar.offers.subscription03	Offer Subscription 3		80	0
+20f54ad2-87b8-147c-7ada-58428aa3c17d	com.magicgames.tankswar.offers.subscription04	Offer Subscription 4		30	0
+4c98291b-62e4-644c-da3a-a0f6ba566f72	com.magicgames.tankswar.offers.subscription05	Offer Subscription 5		60	0
+7be0e63d-d00c-143d-cb03-fdff9da0b491	com.magicgames.tankswar.offers.subscription06	Offer Subscription 6		120	0
+26a3edc7-81e9-f415-7bb7-b951dfc3b4a7	com.magicgames.tankswar.offers.pack01nc	Offer Private Pack	2	15	0
+e88000c9-6cc0-8451-5a1f-ea0ffcbd3f9d	com.magicgames.tankswar.offers.pack02nc	Offer Soldier Pack	4	60	0
+1507b55f-a0ea-6476-e8d8-3dd9116cf355	com.magicgames.tankswar.offers.pack03nc	Offer Sergeant Pack	14	200	0
+3ba8e619-3f08-3475-6a3b-fe00501f5036	com.magicgames.tankswar.offers.pack04nc	Offer Lieutenant-1 Pack	25	300	0
+a223736a-c6cf-8465-fac2-b0a4370c930a	com.magicgames.tankswar.offers.pack05nc	Offer Major Pack	55	500	0
+34e94c9a-d4b7-c49a-da9b-384e208d11d6	com.magicgames.tankswar.offers.pack01_5xnc	Offer Private Pack 5x	2	160	0
+ff28783a-e1f2-34d7-7ab6-4f731ff4f018	com.magicgames.tankswar.offers.pack06nc	Offer Lieutenant Colonel Pack	60	700	0
+1e769768-352d-c4cb-6947-59954534d3cb	com.magicgames.tankswar.offers.new.pack01	Offer New Corporal Pack	5	100	0
+005a29fd-1bbc-44e8-0bf8-dd817d997eba	com.magicgames.tankswar.offers.new.pack02	Offer New Lieutenant2 Pack	16	260	0
+fe1cd5e5-2956-d46e-cb40-fc0ee3b3ae3d	com.magicgames.tankswar.offers.new.pack03	Offer New Captain Pack	30	180	0
+44f9f154-de0e-949f-cac6-f440cb19ff08	com.magicgames.tankswar.unlimitedenergy	Free Energy 30 days	50	0	0
+5ce8e4a8-83cf-249e-4adf-e29c3341150c	com.magicgames.tankswar.coupons.coupon8usd	Coupon 8 USD	8	0	0
+3b5ce8c7-4040-2483-0885-ba203fc10a39	com.magicgames.tankswar.coupons.coupon30usd	Coupon 30 USD	30	0	0
+1111fe2c-76a6-9469-9b11-7b1848edf797	com.magicgames.tankswar.piggybank	Piggy Bank	2	0	0
+4d19bc86-602a-64fb-09be-70b379094ff7	com.magicgames.tankswar.hardpack3.coupon8usd	240 Diamonds Coupon 8 USD	2	240	0
+5753c9e6-3752-e451-49e1-4819a5b3aa7b	com.magicgames.tankswar.hardpack4.coupon8usd	550 Diamonds Coupon 8 USD	12	550	0
+c8e68c30-fc17-0431-2868-4f8bbc7f07e9	com.magicgames.tankswar.hardpack5.coupon8usd	1700 Diamonds Coupon 8 USD	42	1700	0
+4eac06fd-6e9f-f4b4-19dd-0c51e7bc60d5	com.magicgames.tankswar.hardpack6.coupon8usd	4500 Diamonds Coupon 8 USD	90	4500	0
+ff7e1e19-8118-f468-1a34-b1c90e0ffbf7	com.magicgames.tankswar.softpack3.coupon8usd	310.000 Coins Coupon 8 USD	2	0	310000
+e383345a-41d5-445b-e8be-ff46e03f047d	com.magicgames.tankswar.softpack4.coupon8usd	860.000 Coins Coupon 8 USD	12	0	860000
+ca77a574-8982-e47a-f918-d2ecdfdef0ac	com.magicgames.tankswar.softpack5.coupon8usd	2.800.000 Coins Coupon 8 USD	42	0	2800000
+3da67237-714f-4452-1b98-36b6cfb87fda	com.magicgames.tankswar.softpack6.coupon8usd	8.000.000 Coins Coupon 8 USD	90	0	8000000
+97cc58cb-c1fb-a4df-19a7-2754d62d85b0	com.magicgames.tankswar.hardpack5.coupon30usd	1700 Diamonds Coupon 30 USD	20	1700	0
+b19d4d10-3a80-d456-3938-18a6561b3648	com.magicgames.tankswar.hardpack6.coupon30usd	4500 Diamonds Coupon 30 USD	70	4500	0
+1791738c-9c14-d476-0ba2-b6325444d43c	com.magicgames.tankswar.softpack5.coupon30usd	2.800.000 Coins Coupon 30 USD	20	0	2800000
+9bf1b29e-bea5-54eb-284a-ae37daf9a221	com.magicgames.tankswar.softpack6.coupon30usd	8.000.000 Coins Coupon 30 USD	70	0	8000000
+554d355f-29d2-9403-abed-e7237e3bb52c	com.magicgames.tankswar.nopayuserlevelpack01	NoPayUserLevelPack01	1	50	20000
+cb7fe36a-2693-c493-fa3d-d8bee862b7ce	com.magicgames.tankswar.nopayuserlevelpack02	NoPayUserLevelPack02	1	60	20000
+60d3027b-45a3-54cd-3aa3-92f552ffe550	com.magicgames.tankswar.nopayuserlevelpack03	NoPayUserLevelPack03	1	50	30000
+4ae79206-4bfc-7408-6a90-6f3a738059dd	com.magicgames.tankswar.nopayuserlevelpack04	NoPayUserLevelPack04	1	30	20000
+89ce18c2-b283-145a-ea6f-72b2b9d03970	com.magicgames.tankswar.nopayuserlevelpack05	NoPayUserLevelPack05	1	100	20000
+08b6a3b5-3ad2-2449-cb93-49f39bfbd173	com.magicgames.tankswar.nopayuserlevelpack06	NoPayUserLevelPack06	1	150	100000
+a3de7dc0-aeec-24b0-cbce-6b6331b35d17	com.magicgames.tankswar.nopayuserlevelpack07	NoPayUserLevelPack07	1	50	100000
+2bb9c7e6-0fff-f4af-0a55-9d3dd6266b9c	com.magicgames.tankswar.nopayuserlevelpack08	NoPayUserLevelPack08	1	300	150000
+be570fe8-0764-24b5-09dc-246044ef5bc3	com.magicgames.tankswar.nopayuserlevelpack09	NoPayUserLevelPack09	1	450	200000
+77fca332-403d-b4e6-491b-ef6ff9d13d6e	com.magicgames.tankswar.payuserlevelpack01	PayUserLevelPack01	5	300	150000
+f4ae447c-63af-7454-a8fe-ac2e74b9db65	com.magicgames.tankswar.payuserlevelpack02	PayUserLevelPack02	5	600	310000
+93d218e7-07d9-b4d3-a932-a5ca4fc0c947	com.magicgames.tankswar.payuserlevelpack03	PayUserLevelPack03	7	600	310000
+bc3e3d13-c319-7431-3ad7-bd529cb78db4	com.magicgames.tankswar.payuserlevelpack04	PayUserLevelPack04	5	0	100000
+c3b6be11-4443-749c-985e-fac1c80b96dc	com.magicgames.tankswar.payuserlevelpack05	PayUserLevelPack05	7	0	100000
+397e2af0-9883-9454-b924-49b759bcf726	com.magicgames.tankswar.payuserlevelpack06	PayUserLevelPack06	7	700	860000
+7530bae8-c5ad-64b7-39a7-934ee0bb6278	com.magicgames.tankswar.payuserlevelpack07	PayUserLevelPack07	10	700	860000
+523ae35e-dcb1-6462-794e-4d1e1c2c0370	com.magicgames.tankswar.payuserlevelpack08	PayUserLevelPack08	10	120	860000
+f831b0c7-f954-4497-89d7-5cf78ed7079e	com.magicgames.tankswar.payuserlevelpack09	PayUserLevelPack09	15	1000	100000
+152ec290-d9b3-b4cd-fa5b-95063c3f73f0	com.magicgames.tankswar.payuserlevelpack10	PayUserLevelPack10	30	0	860000
+4d9235c8-9127-7411-5b5d-b5f4c45440d9	com.magicgames.tankswar.payuserlevelpack11	PayUserLevelPack11	50	0	860000
+b6e2f7f1-2d91-c4b9-6944-9c95dee21421	com.magicgames.tankswar.payuserlevelpack12	PayUserLevelPack12	100	4500	2800000
+68b1eb4e-0e19-74a3-08ad-d5a5724feede	com.magicgames.tankswar.newhardcurrencypack01	NewHardCurrencyPack01	100	9600	0
+7c71aa6c-9703-e472-ab4e-1b01ca113d7c	com.magicgames.tankswar.newsoftcurrencypack01	NewSoftCurrencyPack01	100	0	16400000
+3675d19d-b5c1-f491-59ec-75fcf05237a6	com.magicgames.tankswar.energysupplypack01	EnergySupplyPack01	2	50	0
+c3169660-3fa6-24a3-8b7f-58ee4e82c7ff	com.magicgames.tankswar.energysupplypack02	EnergySupplyPack02	5	50	0
+f80b774d-f4ad-740c-6b54-76d7c02e8735	com.magicgames.tankswar.energysupplypack03	EnergySupplyPack03	10	50	0
+e3e6f85c-b63b-3453-0a15-bb044bbf17c7	com.magicgames.tankswar.energysupplypack04	EnergySupplyPack04	20	50	0
+a74fd2c2-9668-1414-4926-4c964b8ba997	com.magicgames.tankswar.springpack01	SpringPack01	100	0	11000000
+4fe7aa99-12ef-c42e-aaae-b8f37a8f02ab	com.magicgames.tankswar.springpack02	SpringPack02	100	0	12000000
+0ad567de-9979-f4f9-8888-9119f8199d1c	com.magicgames.tankswar.springpack03	SpringPack03	100	0	11000000
+85e273d8-a328-544a-29c6-d11085df0e2f	com.magicgames.tankswar.springpack04	SpringPack04	50	0	4500000
+6f8acaf0-620b-e47f-48ad-de29a4b54821	com.magicgames.tankswar.springpack05	SpringPack05	50	0	4500000
+f39cd4c3-2a17-0446-0ab4-25b5d53edf4f	com.magicgames.tankswar.springpack06	SpringPack06	50	0	5600000
+bb1c78d3-63b6-e4fd-3abd-503180ca4c43	com.magicgames.tankswar.springpack07	SpringPack07	50	0	4500000
+561b114d-da2a-84b7-6bb3-86ae48fc7caa	com.magicgames.tankswar.springpack08	SpringPack08	10	0	470000
+d80c1ad1-8bba-94af-fba9-5e0d1704d6b3	com.magicgames.tankswar.springpack09	SpringPack09	20	0	1300000
+e794171d-ae93-a4e4-eb6a-a9c54e54c02b	com.magicgames.tankswar.springpack10	SpringPack10	20	0	1720000
+fae9f8b9-9b25-2412-abe3-e5ea1e75cad5	com.magicgames.tankswar.springgiftpack01	SpringGiftPack01	100	5850	0
+5abd7fe9-4761-240b-0acf-1a8ad9094624	com.magicgames.tankswar.springgiftpack02	SpringGiftPack02	100	6750	0
+74668578-e6c0-645d-4a1c-caf0d83e2725	com.magicgames.tankswar.springgiftpack03	SpringGiftPack03	100	7500	0
+3078a7a2-b544-1406-abd4-8706b152385e	com.magicgames.tankswar.springgiftpack04	SpringGiftPack04	50	3400	0
+8680580d-cbed-8410-9b69-ae4561e54cf9	com.magicgames.tankswar.springgiftpack05	SpringGiftPack05	50	3400	0
+9337bd3b-f963-540c-69d2-55e4aec0ceb3	com.magicgames.tankswar.springgiftpack06	SpringGiftPack06	50	5100	0
+fc658a16-7c8d-5468-685d-1468c79c7efd	com.magicgames.tankswar.springgiftpack07	SpringGiftPack07	20	1100	0
+78c7b30c-43f8-3433-998e-ab5d3bb7d769	com.magicgames.tankswar.springgiftpack08	SpringGiftPack08	20	1650	0
+7b0f3cdc-3552-14af-d980-2be1b973fad1	com.magicgames.tankswar.policepack01	PolicePack01	100	0	11000000
+2e156497-ed57-c495-2ba8-8db4b931eeb0	com.magicgames.tankswar.policepack02	PolicePack02	100	0	12000000
+8b9be649-b0fb-a416-1a93-93623583c1f6	com.magicgames.tankswar.policepack03	PolicePack03	100	0	13500000
+3b4496d4-7132-e409-b9be-20b04685915b	com.magicgames.tankswar.policepack04	PolicePack04	50	0	5600000
+72fbbced-07cf-74b8-f98f-7cb1fd30a92c	com.magicgames.tankswar.policepack05	PolicePack05	50	0	5600000
+8426e93b-b53c-b472-fbfc-248c44a002dc	com.magicgames.tankswar.policepack06	PolicePack06	50	0	8400000
+f4ae8d7d-b982-a47c-5a53-3e7a4c51c125	com.magicgames.tankswar.policepack07	PolicePack07	50	0	5600000
+21472b41-ddb9-94f7-1bdf-b098d7cc731c	com.magicgames.tankswar.policepack08	PolicePack08	10	0	620000
+d1d6c91e-afcd-647e-88fe-9e40188fcfdf	com.magicgames.tankswar.policepack09	PolicePack09	20	0	1720000
+b2db61c9-a4c0-3431-9898-56971af72ec4	com.magicgames.tankswar.policepack10	PolicePack10	20	0	2580000
+0817a682-9def-b489-c809-7aa5107d1554	com.magicgames.tankswar.sailingdaypack01	SailingDayPack01	100	5850	0
+d6992226-182f-a490-399d-40fd7b26573e	com.magicgames.tankswar.sailingdaypack02	SailingDayPack02	100	6750	0
+ffe72023-bd11-d4cc-e881-1c0aca7ed717	com.magicgames.tankswar.sailingdaypack03	SailingDayPack03	100	7500	0
+e56ba9e6-5482-3452-b8ee-8c73566d1022	com.magicgames.tankswar.sailingdaypack04	SailingDayPack04	50	3400	0
+cc2aa474-ce3c-549c-ebcd-fb234aa35ff4	com.magicgames.tankswar.sailingdaypack05	SailingDayPack05	50	3400	0
+ea6feef2-453d-64d7-f983-705436cdbe8d	com.magicgames.tankswar.sailingdaypack06	SailingDayPack06	50	5100	0
+8bdf55bd-25d2-444b-997e-6bec5aadcd97	com.magicgames.tankswar.sailingdaypack07	SailingDayPack07	20	1100	0
+41bb1fbe-2963-e48e-496d-df907fa0c53a	com.magicgames.tankswar.sailingdaypack08	SailingDayPack08	20	1650	0
+c406829c-4f59-2114-face-e2751ab4450c	com.magicgames.tankswar.losechainpack01	LoseChainPack01	1	70	50000
+6743a5e8-fc22-e124-6bca-b7ceac429cd5	com.magicgames.tankswar.losechainpack02	LoseChainPack02	1	130	86000
+8510de45-e370-8e24-f8f8-eed34ebc563e	com.magicgames.tankswar.losechainpack03	LoseChainPack03	2	60	57000
+52bde68f-086d-8234-19e6-82e61ee3aa11	com.magicgames.tankswar.losechainpack04	LoseChainPack04	2	110	108000
+46eb5dd1-03af-90f4-cb52-0b09e306cfad	com.magicgames.tankswar.losechainpack05	LoseChainPack05	5	130	138000
+0f1f18fa-2816-57b4-1b5b-84b7e7eeb159	com.magicgames.tankswar.losechainpack06	LoseChainPack06	5	250	275000
+607c3f0d-e926-77f4-186e-f6124631203f	com.magicgames.tankswar.losechainpack07	LoseChainPack07	20	500	780000
+7ffc224c-8910-a654-99bd-f68bba69a520	com.magicgames.tankswar.losechainpack08	LoseChainPack08	20	800	1230000
+aa26dfa3-1219-2bb4-58c2-22a286b1d7bf	com.magicgames.tankswar.losechainpack09	LoseChainPack09	50	1200	1960000
+ed21d0c9-6504-f344-89a6-0ff30913a589	com.magicgames.tankswar.losechainpack10	LoseChainPack10	50	1900	3140000
+b3aa1ab4-3fb6-2db4-8b6f-e65e948c13f1	com.magicgames.tankswar.losechainpack11	LoseChainPack11	100	2600	4450000
+88af861a-c50b-f744-4a0c-fb0675a7981e	com.magicgames.tankswar.losechainpack12	LoseChainPack12	100	4000	7100000
+dcab8778-9ea9-9ea4-99ff-bd9409be3a03	com.magicgames.tankswar.losechainpvppack_01	LoseChainPvpPack01	1	75	75000
+9de54f61-2177-2a14-3ac7-00ad6ebce322	com.magicgames.tankswar.losechainpvppack_02	LoseChainPvpPack02	1	140	136000
+5582cf16-0d68-21a4-0913-46b27d12a923	com.magicgames.tankswar.losechainpvppack_03	LoseChainPvpPack03	2	75	75000
+0fefdea8-6052-55c4-9a42-f89e496fa704	com.magicgames.tankswar.losechainpvppack_04	LoseChainPvpPack04	2	140	138000
+c532c132-d0ba-6b54-4b06-ad3168499f05	com.magicgames.tankswar.losechainpvppack_05	LoseChainPvpPack05	5	160	180000
+6c4534b3-05f0-a3b4-c811-50286c10abd1	com.magicgames.tankswar.losechainpvppack_06	LoseChainPvpPack06	5	320	330000
+ee1de58a-1213-29c4-ca14-691cfccc9b35	com.magicgames.tankswar.losechainpvppack_07	LoseChainPvpPack07	20	600	680000
+9c100625-2f80-4ec4-5a91-7a126a88464c	com.magicgames.tankswar.losechainpvppack_08	LoseChainPvpPack08	20	800	1120000
+eaf4fe82-a3a5-af44-c9b8-1cf0ab9dd716	com.magicgames.tankswar.losechainpvppack_09	LoseChainPvpPack09	50	1500	2140000
+bf3a318c-d3f6-33e4-facc-7e67621302ce	com.magicgames.tankswar.losechainpvppack_10	LoseChainPvpPack10	50	2500	3240000
+4d3a3674-ab01-0894-ba2d-032ccee65567	com.magicgames.tankswar.losechainpvppack_11	LoseChainPvpPack11	100	2600	4440000
+de517dee-d80b-6ee4-4b69-acda7a28fda3	com.magicgames.tankswar.losechainpvppack_12	LoseChainPvpPack12	100	3800	6840000
+2783c3a3-67d2-6794-4ab9-519a57127de3	com.magicgames.tankswar.rankpack01	RankPack01	1	80	68000
+893b8793-e8ca-9dd4-eac8-d99af49c8fe0	com.magicgames.tankswar.rankpack02	RankPack02	1	170	161000
+61ccc2ee-6d84-1524-da03-90038236d479	com.magicgames.tankswar.rankpack03	RankPack03	2	70	64000
+132a2118-4581-92b4-3ae7-938f8a874f58	com.magicgames.tankswar.rankpack04	RankPack04	2	150	148000
+968cd9f3-e3f6-d954-48ec-228018e999d2	com.magicgames.tankswar.rankpack05	RankPack05	5	130	143000
+c77da226-8bd0-dc84-da73-e343c2b87f5d	com.magicgames.tankswar.rankpack06	RankPack06	5	280	309000
+c04bd9ae-0cff-f9d4-9979-90fb16de38da	com.magicgames.tankswar.rankpack07	RankPack07	20	600	750000
+fda9e395-6ea8-6824-8bb3-7e18ed083b4a	com.magicgames.tankswar.rankpack08	RankPack08	20	900	1340000
+4b2ffb19-5dbd-a794-8b7c-187625474506	com.magicgames.tankswar.rankpack09	RankPack09	50	1500	2410000
+678cb186-6b77-e154-7b25-fe1b252a1a15	com.magicgames.tankswar.rankpack10	RankPack10	50	2500	3730000
+a11298f1-99ae-7b84-b807-1b3c398c5192	com.magicgames.tankswar.rankpack11	RankPack11	100	3100	5500000
+ed5ab054-38aa-d084-5ab4-7092fc4aa786	com.magicgames.tankswar.rankpack12	RankPack12	100	5000	7900000
+a7274327-8c7e-7cf4-08d1-764f8934f674	com.magicgames.tankswar.softlackpack_01	SoftLackPack01	1	0	198000
+08967cc1-98b9-ada4-186c-27135713e5b1	com.magicgames.tankswar.softlackpack_02	SoftLackPack02	1	0	396000
+10ad8d56-748e-d3e4-79d6-fc59b9bc4761	com.magicgames.tankswar.softlackpack_03	SoftLackPack03	2	0	199000
+7aed81a7-caa2-5344-1b00-4d5e2de43925	com.magicgames.tankswar.softlackpack_04	SoftLackPack04	2	0	398000
+4f402065-594a-5914-685f-8c8a09f3a2aa	com.magicgames.tankswar.softlackpack_05	SoftLackPack05	5	0	416000
+e4b63ee0-8dc2-dce4-8bc8-a483739bd0f7	com.magicgames.tankswar.softlackpack_06	SoftLackPack06	5	0	831000
+d27fd02b-1af5-fe84-aac3-1301aebc2cb0	com.magicgames.tankswar.softlackpack_07	SoftLackPack07	20	0	2190000
+062731ac-02da-b184-bb64-04063158cef1	com.magicgames.tankswar.softlackpack_08	SoftLackPack08	20	0	3500000
+a0015c30-40bc-aae4-7a84-61f653a9738b	com.magicgames.tankswar.softlackpack_09	SoftLackPack09	50	0	5600000
+ef00ed32-6999-6bc4-1a51-41491c75fd97	com.magicgames.tankswar.softlackpack_10	SoftLackPack10	50	0	9330000
+9ead6b1b-65f3-2bf4-2bcc-c1200b9bf002	com.magicgames.tankswar.softlackpack_11	SoftLackPack11	100	0	13330000
+1146b8f9-ab93-29a4-fabc-c64472ef8aa3	com.magicgames.tankswar.softlackpack_12	SoftLackPack12	100	0	20000000
+fc2ae40d-1313-0294-9af7-f701fb9ebb5c	com.magicgames.tankswar.energylackpack01	EnergyLackPack01	1	60	48000
+c2ede2a4-05f7-dd44-f9e6-d883add59dc0	com.magicgames.tankswar.energylackpack02	EnergyLackPack02	1	200	61000
+48719228-8706-cb24-5bca-6c237bee5504	com.magicgames.tankswar.energylackpack03	EnergyLackPack03	2	60	49000
+3c1a4bde-9e18-8ba4-2aa3-4f5e441459c4	com.magicgames.tankswar.energylackpack04	EnergyLackPack04	2	200	63000
+68779d82-85ca-5ba4-cbc9-432deece7021	com.magicgames.tankswar.energylackpack05	EnergyLackPack05	5	60	46000
+1d2d8478-ab25-4044-99ea-5178cb80b3de	com.magicgames.tankswar.energylackpack06	EnergyLackPack06	5	140	70000
+f8d44f18-61ba-3904-2a72-931ac1d53d40	com.magicgames.tankswar.energylackpack07	EnergyLackPack07	20	450	670000
+ab15d9e9-09a8-a1a4-9a2f-0f2546f78a05	com.magicgames.tankswar.energylackpack08	EnergyLackPack08	20	600	940000
+8215889b-6a9a-35e4-7ace-cdd849326d87	com.magicgames.tankswar.energylackpack09	EnergyLackPack09	50	700	1050000
+5efa3ee2-a4fa-3654-b931-d0a34f697ac0	com.magicgames.tankswar.energylackpack10	EnergyLackPack10	50	1300	2100000
+b09d1c17-fd73-7104-9846-f5ceffc8f4d9	com.magicgames.tankswar.energylackpack11	EnergyLackPack11	100	1800	3000000
+bf3b00b3-cd18-eb34-2868-79f9e846fe6c	com.magicgames.tankswar.energylackpack12	EnergyLackPack12	100	2800	4360000
+f0c14946-2dd8-7894-6a9b-24a463b55417	com.magicgames.tankswar.techlackpack01	TechLackPack01	1	50	48000
+6ce4aaa4-8b39-3ae4-c878-d4aa73caff7b	com.magicgames.tankswar.techlackpack02	TechLackPack02	1	100	96000
+41019e95-917a-1ed4-38c4-3ee746f7e5c4	com.magicgames.tankswar.techlackpack03	TechLackPack03	2	50	49000
+b7dc1c4b-e9f6-2e14-7803-991f3a85beb6	com.magicgames.tankswar.techlackpack04	TechLackPack04	2	100	98000
+50aeacf0-c6d6-2864-fa06-b03e952a7d42	com.magicgames.tankswar.techlackpack05	TechLackPack05	5	100	98000
+0b8c3556-6d49-3e44-6852-0c3858a5d86c	com.magicgames.tankswar.techlackpack06	TechLackPack06	5	190	206000
+c9ad4d45-ee8e-be94-b9a5-911768a84524	com.magicgames.tankswar.techlackpack07	TechLackPack07	20	350	546000
+c88925ab-2c40-7c64-d8e3-3c5ab7f91e0b	com.magicgames.tankswar.techlackpack08	TechLackPack08	20	560	905000
+c2060521-06a1-48a4-fa7a-83ec10ffddaf	com.magicgames.tankswar.techlackpack09	TechLackPack09	50	900	1320000
+6217db4f-f732-0954-1b28-fe23f834bb9e	com.magicgames.tankswar.techlackpack10	TechLackPack10	50	1500	2250000
+4f53670c-8148-7aa4-5939-6837deec4ffa	com.magicgames.tankswar.techlackpack11	TechLackPack11	100	1900	3200000
+3b5edeb9-9772-26f4-3a6f-5f0f757906b5	com.magicgames.tankswar.techlackpack12	TechLackPack12	100	2800	5240000
+206e7947-e92a-c764-2b5e-e357b0791fb0	com.magicgames.tankswar.hardlackpack01	HardLackPack01	1	200	0
+f5861806-5d0e-e414-08e4-ac51e746b730	com.magicgames.tankswar.hardlackpack02	HardLackPack02	1	400	0
+5db98b30-c347-d614-aa9c-3a62e2c9de1d	com.magicgames.tankswar.hardlackpack03	HardLackPack03	2	200	0
+2e0b55ee-b2ec-7464-b9f1-d4584e385072	com.magicgames.tankswar.hardlackpack04	HardLackPack04	2	400	0
+051a1875-631c-2c94-e8de-e7f6a299886d	com.magicgames.tankswar.hardlackpack05	HardLackPack05	5	370	0
+1332d086-f965-2674-b8dd-301d500266c9	com.magicgames.tankswar.hardlackpack06	HardLackPack06	5	740	0
+4c2c8dd6-a67b-e734-abae-1fc9b33a817f	com.magicgames.tankswar.hardlackpack07	HardLackPack07	20	1400	0
+9ec18633-e698-8744-4870-7bf301b2b481	com.magicgames.tankswar.hardlackpack08	HardLackPack08	20	2240	0
+1e1f76a4-e136-5f24-69ec-92bed1ac6342	com.magicgames.tankswar.hardlackpack09	HardLackPack09	50	3400	0
+2c744139-5ae9-8094-d845-56b5350774ba	com.magicgames.tankswar.hardlackpack10	HardLackPack10	50	5670	0
+e60038cf-8f42-0844-d91b-ecb4d9d5c0ef	com.magicgames.tankswar.hardlackpack11	HardLackPack11	100	7500	0
+73f44155-103f-c284-9a8d-30df19308684	com.magicgames.tankswar.hardlackpack12	HardLackPack12	100	11250	0
+6765f921-d49e-7472-8a5c-0ba7dbaa2a95	com.magicgames.tankswar.rankpromotion01	RankPromotion01	1	30	0
+1e107e9c-4232-a40d-3beb-abc698f64dbe	com.magicgames.tankswar.rankpromotion02	RankPromotion02	2	30	0
+6269f15b-25f7-4457-fbac-31bb5f836dda	com.magicgames.tankswar.rankpromotion03	RankPromotion03	5	130	0
+ea33d8f7-4834-5497-e86e-6591d95f5468	com.magicgames.tankswar.rankpromotion04	RankPromotion04	20	300	0
+9bff5b00-b9c0-c4ca-4900-6389069a1906	com.magicgames.tankswar.rankpromotion05	RankPromotion05	20	350	0
+a7247039-51fb-f405-8a86-e049e89fc1c0	com.magicgames.tankswar.rankpromotion06	RankPromotion06	50	200	0
+b1d56146-934d-44ad-aa99-e0639648d093	com.magicgames.tankswar.rankpromotion07	RankPromotion07	20	450	0
+0439a236-6b50-64a7-d9c2-ca962461ab2d	com.magicgames.tankswar.rankpromotion08	RankPromotion08	100	1100	2200000
+9206eb89-87df-849b-486f-5fd007055ca3	com.magicgames.tankswar.tankpromotion01	TankPromotion01	5	0	100000
+e1cd96aa-daf9-b45b-aa0b-d544ab2fae70	com.magicgames.tankswar.tankpromotion02	TankPromotion02	20	0	100000
+f77199f9-170c-542e-da1f-17e04b54ac83	com.magicgames.tankswar.tankpromotion03	TankPromotion03	10	0	100000
+9b2e59ba-279c-e4d6-68c6-df35342bdaa6	com.magicgames.tankswar.tankpromotion04	TankPromotion04	50	0	100000
+86052d87-c768-349e-19fa-8f7ceef5cd43	com.magicgames.tankswar.tankpromotion05	TankPromotion05	20	0	400000
+00a2b4e2-c9d0-2478-eb31-24fbe71699df	com.magicgames.tankswar.tankpromotion06	TankPromotion06	100	0	1500000
+3e0d3269-0b94-444c-3abc-f66552a6db5f	com.magicgames.tankswar.tankpromotion07	TankPromotion07	5	0	100000
+c21e7c48-b1f4-8434-7ade-688f14487134	com.magicgames.tankswar.tankpromotion08	TankPromotion08	20	0	100000
+48c010e7-c159-644d-5a72-e34c3d3d1428	com.magicgames.tankswar.tankpromotion09	TankPromotion09	10	0	100000
+e32e624f-f7be-7419-19db-c13cecb8d7df	com.magicgames.tankswar.tankpromotion10	TankPromotion10	20	0	100000
+8ead626f-5b6e-14cf-e967-36bdcbde2190	com.magicgames.tankswar.tankpromotion11	TankPromotion11	20	0	100000
+49b43240-9e92-94c6-7938-9fd9298b6709	com.magicgames.tankswar.tankpromotion12	TankPromotion12	50	0	500000
+80bf27bb-b186-e410-5b91-2483528529e4	com.magicgames.tankswar.tankpromotion13	TankPromotion13	50	0	1100000
+5515afbc-cf7d-74e1-a93d-1fb577eb86af	com.magicgames.tankswar.tankpromotion14	TankPromotion14	100	0	1500000
+a4752260-2e04-04d9-7b6c-f2a7516437a8	com.magicgames.tankswar.tankpromotion15	TankPromotion15	20	0	100000
+1a67e2f8-a884-54ed-58b8-7c0d3c62cbce	com.magicgames.tankswar.tankpromotion16	TankPromotion16	50	0	100000
+121b83ca-38cd-a484-c9e3-da483007fe8d	com.magicgames.tankswar.randompack01_01	RandomPack01_01	1	150	0
+1694e690-512f-f734-4a4a-c497c87ff30d	com.magicgames.tankswar.randompack01_02	RandomPack01_02	2	160	40000
+45da4950-116f-c7a4-1b57-826f07aaaeaa	com.magicgames.tankswar.randompack01_03	RandomPack01_03	5	350	20000
+3b7287e4-a3f5-fa54-0b4a-6af52e6fb32a	com.magicgames.tankswar.randompack01_04	RandomPack01_04	10	480	150000
+5006490a-6fb6-4f64-6a2b-99a3c1ed27b8	com.magicgames.tankswar.randompack01_05	RandomPack01_05	20	790	200000
+783a8d0e-1722-70a4-db1c-8f0c324624f6	com.magicgames.tankswar.randompack01_06	RandomPack01_06	50	2250	300000
+3690b4e0-11b8-6e14-2ada-116a021e96aa	com.magicgames.tankswar.randompack01_07	RandomPack01_07	100	5450	1000000
+4964e9d1-0380-5134-a988-daa2a8967411	com.magicgames.tankswar.randompack02_01	RandomPack02_01	2	100	270000
+2f0d628a-7627-f6f4-cbe7-e0ce326be378	com.magicgames.tankswar.randompack02_02	RandomPack02_02	1	45	130000
+ce85b364-ca74-8f14-5a8a-3e5d87551114	com.magicgames.tankswar.randompack02_03	RandomPack02_03	2	45	130000
+5bf2a1c8-ecde-3644-cadb-e00d4fb67d4e	com.magicgames.tankswar.randompack02_04	RandomPack02_04	5	100	270000
+049db1cf-10f2-63b4-a852-a2085e29dc30	com.magicgames.tankswar.randompack02_05	RandomPack02_05	10	190	500000
+f3117d62-5de3-a3e4-c9dd-56a50ce65548	com.magicgames.tankswar.randompack02_06	RandomPack02_06	20	120	1200000
+266f10e0-6c9f-3674-99f7-e273c25f0093	com.magicgames.tankswar.randompack02_07	RandomPack02_07	50	280	3500000
+ef56a850-05a7-afb4-b968-e28bb60d3ef7	com.magicgames.tankswar.randompack03_01	RandomPack03_01	2	300	50000
+45d0438c-fe26-8244-48cc-ea896a206634	com.magicgames.tankswar.randompack03_02	RandomPack03_02	5	280	50000
+33089343-7fd6-fe54-b9ad-c7eaa38e788e	com.magicgames.tankswar.randompack03_03	RandomPack03_03	10	480	100000
+0346e1d0-9779-7ce4-0844-781fa9a21235	com.magicgames.tankswar.randompack03_04	RandomPack03_04	20	760	150000
+84d53399-2cdd-e414-8bd7-dd0ae50bfc6e	com.magicgames.tankswar.randompack03_05	RandomPack03_05	50	2000	320000
+85e9fe2c-2df8-0844-8859-1dbffa164429	com.magicgames.tankswar.randompack03_06	RandomPack03_06	100	5400	280000
+afa4551b-2b34-e1f4-d974-89f1a3a9128d	com.magicgames.tankswar.randompack03_07	RandomPack03_07	50	1900	500000
+95cb5158-ce8c-9ed4-bb50-d0d57360f667	com.magicgames.tankswar.randompack04_01	RandomPack04_01	10	1100	100000
+672941e4-184b-adc4-d9a5-89cf87474bdb	com.magicgames.tankswar.randompack04_02	RandomPack04_02	20	800	150000
+86856c4a-1d7f-aa14-1b01-baac76c0b3f8	com.magicgames.tankswar.randompack04_03	RandomPack04_03	50	2100	500000
+b0b3183c-2ded-0654-0a28-ebd20b66eb90	com.magicgames.tankswar.randompack04_04	RandomPack04_04	1	150	30000
+377da14e-b550-49d4-5831-0846fd307e47	com.magicgames.tankswar.randompack04_05	RandomPack04_05	2	150	30000
+26f95cb9-1b57-9fb4-08ad-f5852c73e291	com.magicgames.tankswar.randompack04_06	RandomPack04_06	5	260	100000
+8c97202c-febc-fc54-a83c-c711d0b53611	com.magicgames.tankswar.randompack04_07	RandomPack04_07	10	430	200000

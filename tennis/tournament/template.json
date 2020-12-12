@@ -1,0 +1,31 @@
+{
+   "template": [
+      {
+         "tournamentTemplateID": "RookieJuniorTournament",
+         "tourId": "Tour2",
+         "teaserDate": "2020-10-02T00:00:00Z",
+         "removalDate": "2020-10-09T00:00:00Z",
+         "rounds": [
+            {
+               "type": "qualification",
+               "startDate": "2020-10-02T00:00:00Z",
+               "endDate": "2020-10-05T00:00:00Z",
+               "limitDate": "2020-10-05T00:15:00Z"
+            },
+            {
+               "type": "final",
+               "startDate": "2020-10-05T00:15:01Z",
+               "endDate": "2020-10-09T00:00:00Z",
+               "limitDate": "2020-10-09T00:15:00Z"
+            }
+         ],
+         "metadata": {
+            "nameKey": "outback_tournament",
+            "customization": {
+               "name": "OutbackTournamentAssets"
+            }
+         },
+         "id": "ce013ae9-ebf3-45bc-9a88-5c5d27986855"
+      }
+   ]
+}

@@ -1,0 +1,5524 @@
+{
+    "segments": [
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "68c09216-4cca-4d3c-8682-4e078ebdea4e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6600,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "559b62fb-27f5-407f-a282-d1aee53d8b55"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "a8a85fa3-9dba-490f-b86f-8129dce2e108"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 4500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "cf802a02-87e4-44a8-a112-5362a27be23e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 3300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "ea2dbf02-09a1-4910-84c8-3009c7427ee3"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9600,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "0270a032-4304-4e1b-b31f-edf46732a3b6"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "35706f86-da89-4137-919f-d966e064e042"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "dab6eaa9-a735-4708-8189-1e6eb6b08d0e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_2"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 16350,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 91
+                }
+            },
+            "id": "fb757ba8-c223-4b07-9da9-e0a05a01c821"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_2"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 91
+                }
+            },
+            "id": "1f6ac896-6f4c-42bb-8ab9-9e48bf97381c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_2"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 14550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 91
+                }
+            },
+            "id": "c60244f3-8e39-4bcf-b834-dc9bce2fdf84"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_2"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13350,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 91
+                }
+            },
+            "id": "42508c52-e96e-4085-8a4e-7fae9f5cccb8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_2"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 91
+                }
+            },
+            "id": "77ad343d-d399-4f94-bc5d-ad4a0c609b33"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_2"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 91
+                }
+            },
+            "id": "de483e99-e75e-4dc0-9295-e104e01a2b9f"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_2"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8850,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 91
+                }
+            },
+            "id": "1d386537-d3b5-45bd-a7bf-07f4461d5147"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_2"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8850,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 91
+                }
+            },
+            "id": "1139bf43-ce27-4de1-abf2-fc527808ac17"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "6506cde2-7992-4463-8c34-cdcd0b6cab7e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "38978e88-e6a0-4b54-9db6-3950152133b0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8100,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "8a5869d5-dbe2-4754-a3a5-3e4d137d4e63"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "2b3abd28-fde2-4fed-9205-b8381d8d95d2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "e7b4a99d-3155-4458-8e68-c01d5e5c5787"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "8726f523-dd36-4844-a1d3-8f457d98c3a4"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "82059c84-5487-475c-ba84-01093ee1ce15"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "266f48b9-a09b-4526-bb2d-fb7b33637c09"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 14700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "9d431d82-6eaf-4ec5-ac46-29494d761204"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13800,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "91a1ac8b-6d0c-444b-8e63-50038435a0ce"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "a29d654f-d323-4b53-bca5-1c1d204665ca"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "2615982c-0cc0-4e45-8598-ecc6d5d31750"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "4ca52b72-2cfc-4a88-8eff-27cdc3d47527"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "5a94ca8c-702a-49ff-a363-680d9401d220"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "3559f855-11ba-4b86-abad-ffa4b0d150d2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "f3e2f289-8b28-439e-84f5-5b6f06d4dad2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 30450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "8463c7c9-76e8-46b7-a62d-dee58d4d85f4"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 29550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "c43c295d-4ca7-4d01-bb11-63ef60d7e8ad"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 28650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "f6493fff-607b-4e80-82c1-d7d3f594dc27"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 27450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "77b1dc8e-0d59-4be4-aff8-a6f83e62ff31"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 26250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "b7355e9a-d7a4-4519-b659-00092d71505e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 23250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "7e8a1c25-2843-4aea-bd07-fdcac2baab8c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "2085ceb0-94ed-4306-ae17-a9f2f0bda83b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "9917b851-49fb-4a3c-9d47-ff2de801e865"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 30450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "08082093-7b9d-48a7-a4fe-5ff3877ded85"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 29550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "c2c1552e-4ece-4987-9a18-6f5d026b9b3e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 28650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "83d3004a-ca44-45f7-a99e-eebe0119e1a4"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 27450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "c758fa6b-60d5-4f4f-9716-d06bc91dfc6e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 26250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "4e95cedb-ad01-4b83-892b-8cd0ed4307b4"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 23250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "b98739ea-251d-4de5-834b-0b1cfbdd0e40"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "7b2d5a1e-33ec-4266-92c3-7a2c82719f80"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 0,
+            "maxDaysSinceLastBuy": 1,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "647a6312-a878-426e-b056-a7ed5481bd2e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "856f4836-3b4a-4321-8257-98e77afcc9af"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6600,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "7b5ad720-c23a-4fea-a01d-40968555088e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "b22b9b38-c247-4fd0-ab74-516dabb14fb8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 4500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "bfa1898c-e2cb-4743-9b47-1c74706ddf51"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 3300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "ee700a47-bb70-4704-8a2b-bc9b3f000057"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9600,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "bba439cd-d2b2-4170-80b1-7d01daf3b650"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "4aebf656-7349-4dff-84c2-e182506284ea"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "584a0182-fcb7-410b-a2d0-c7422f711e27"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "8990cbe9-ee1e-4f0b-88fb-0d111fa8ee6f"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "e89b1532-9b4f-4f05-85e4-901b9735b9d0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11850,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "9d88a690-b658-47e5-9934-c730a78b7639"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "bf087bd9-b0be-49d9-b616-efcf4f2a6908"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "cad56b08-2d08-454b-9aea-cb88a354e145"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "3b8b7b6a-514e-4be8-bc37-f8ab50726179"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "c7bc71d8-a285-4077-a6f4-4fefc85eb80b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "a0ae9806-f7ed-4e2d-9019-240cbc1af5e0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "8cefc53d-cca1-4289-a21f-efb3803bfc2c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "6e0c5653-fc09-4f94-b431-5b80bc3bb44a"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11400,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "3739a64e-9b76-4ecb-a927-6a6437b49f81"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "d4e853ca-05c8-4b06-9456-281497cddf78"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "9d58712c-656a-41ea-b8a6-51b09474f5f5"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "2c7aa1fc-0ae4-4a99-ae35-7247f8acf8c5"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "f7731afb-2051-430f-be17-2956432ea004"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "081a707b-de14-4715-8a0a-640136adb518"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "97ccaf0c-168d-4a1e-b94c-91db0328dd55"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "ac59e4e7-984e-4637-8f40-1e605fef307e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8100,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "7945ec37-1dd7-4c4f-b01f-eac790d1334a"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "542defcf-f1d2-4222-90f4-f8d63b599fa8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "954a157e-ce38-4d2f-87fa-63f46e15fa66"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "ff42f18b-913d-4a96-b755-28c683693bd8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "e0cbb816-c831-4c04-a755-6f6a11b92073"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "576de94b-2bce-4131-8c96-fe9e7050d6cf"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 30450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "7139e7ba-dc36-4c58-9498-30ec47c548fc"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 29550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "4385448e-8308-4638-8705-3610d978a6f4"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 28650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "4035c07e-e3d8-40f5-90f9-2297e667c8c2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 27450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "32d40a06-940e-4ff3-b497-f66dff0d68fc"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 26250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "b3b8b297-9ba7-4433-8563-bd30911898aa"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 23250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "6aa0f67d-96e4-4899-b439-7eafc19d4182"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "f352de53-bd24-4e3c-885e-c9810aacf239"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "9c8052a1-7e07-4241-91da-f9d7e12fe4fa"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 30450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "b91f4789-e92d-49dd-b95d-66304453fed8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 29550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "8e8d73f7-f7ae-4e39-ae23-4dd0c3faf9a8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 28650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "64e2af5e-4e22-4caa-881a-18ac22cb90ee"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 27450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "31955ffe-2c39-4a31-8bd1-2b19c321b1cd"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 26250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "4d8e0a8e-1a6b-4c93-a0f1-66b185ea7958"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 23250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "f4970d12-0cf3-433d-80f9-5fb023ad7de3"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "1bedf71e-0122-4aec-a3d0-18ef291ff14b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 1,
+            "maxDaysSinceLastBuy": 8,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "21ecff37-9d75-4f57-846c-bed04427e7e8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "06c7d29c-cc94-4d00-a57e-ad5a36e89d52"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6600,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "b452c213-7a57-4116-a30b-1df1c65009d5"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "63897caf-fa01-43b9-90e3-f564602d57ea"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 4500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "06585d10-12f1-480c-a519-048a9636280d"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 3300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "cfd7db63-b225-4973-96e4-3eedd21bf2a7"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9600,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "b602c31e-a6e9-4fdf-90af-407938bc3a6b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "80fef59b-8d3d-4e4a-b4f9-b0a449c11aa6"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_1"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 28
+                }
+            },
+            "id": "270061dd-5c26-4684-90f4-a1e8f3687336"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "7db0cefe-6076-484e-81ba-0521e68434cd"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "36a129d3-5eb2-4cf6-b3ae-31be2a8c98af"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11850,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "0824ad06-5b5c-44fc-aec1-14b8cfc54c5d"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "30887200-80d7-4f66-8095-df6084968c0e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "79cd82fe-581e-4900-9993-71692e38454c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "2407a790-d804-44c2-b01e-13da2d87a126"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "f611361a-731c-43e9-be23-fe7575523b15"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_6"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 70
+                }
+            },
+            "id": "be895142-a7a2-4a50-924f-733cb757b38c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "6c5ca800-a204-491c-aad6-37a7f97603be"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "448b889a-cef6-4796-8e36-e4a60b2f7e7b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11400,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "6fc7fbed-3c54-422d-82da-da57c0968d73"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "ab6ca531-aacf-49c5-9a6e-b742aff32022"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "e99aa5e5-5484-4de5-98c6-18a4781b34e1"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "90e4b262-a102-4887-a174-fd6756d1e4e5"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "55e07f97-b470-45db-9d2b-ed054559ca91"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "796dda8f-a8cd-4625-8ede-134f4340e7a8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "eed384c9-eef8-42ae-9884-cdeed8f607ec"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "625c2f24-e50b-4e59-bdaf-daca5c1029f2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8100,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "a5283199-ef9a-46c9-bfa1-35105ebd2cdc"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "0389d474-0126-4c42-8e0e-8d63edea51c8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "628851ef-1323-4da6-8272-cf2d22453d04"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "965d89c6-b5db-43b7-8fb3-f6352f2a2801"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "b3ef4590-d8f7-44d4-b159-07d88d974d66"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "77d37f0e-5bd9-4263-af03-127f6803751c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 14700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "817cb815-d1dd-46ed-9f7f-8f0cfb87106c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13800,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "6d3163a0-c506-4aee-861a-9349bfacd80d"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "0197c5a3-e691-43e5-8bbd-7d5c9dc12100"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "ff01d586-4ede-42f5-b900-796db32784c1"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "24045ff3-3c62-4fcb-8093-e675aba154a4"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "62cb8db5-5fad-406d-a1e5-080a0e771130"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "dffb5011-4871-49fc-947a-881485cd4603"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "957f9095-88e7-4d61-ae54-6da2d9fe5dd8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 30450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "a8952907-a949-466b-91b0-70f5b12167db"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 29550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "4f762a4b-26df-4212-ad3b-b234f64c056e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 28650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "9fc653c7-f15e-4c38-b29d-cd28a885eddd"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 27450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "88e2f634-c392-4301-bf34-181488f5366a"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 26250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "76fa96f2-cf0b-47d5-9606-b7cdc90e1422"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 23250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "1000954e-5232-4f5a-8601-16301051452d"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "2ae891ef-2a1c-4316-a4af-5525f9f1c8f1"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 8,
+            "maxDaysSinceLastBuy": 15,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_5"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 22950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 350
+                }
+            },
+            "id": "fa4bbdec-c41a-4723-a36e-05e26443885d"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 3900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "116f9787-60d2-4643-8d95-36ebfa7d34f2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 3600,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "e3bfdc06-8d9e-4f27-825b-083bb3ae9f15"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 3300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "f836c732-a7ce-49ea-b82f-ad14e36c4e5c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 3000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "63314573-1023-48b0-84cd-762d93c4c8b2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 2700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "fd5e9c19-0169-48b6-8e75-0881e49d94ef"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 2100,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "22fc89c9-ea69-4702-aade-c4db8de22a4e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 1500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "029578f7-5c12-4946-873c-f53a729cdd87"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 1500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "c6b13300-8d62-43f7-a1f2-a28b71b95869"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "5a5307e0-c689-40b9-b9a3-0403bd6dd3a9"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "df476a8e-71d6-4067-a6db-be1a8f956caf"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11850,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "9c7ce2f5-ec3e-48f1-84b0-92a17e5713f8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "7c603a7c-8319-4a90-b725-9000e72dfde6"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "0ce6de37-1ff5-4577-8bd1-6b632f7011d0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "0eec6fa5-6155-45c4-80f3-8ff86b01606b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "74f7cbf4-36de-4fd2-8c4e-cfeaf717200f"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "457f4104-26cd-4cf4-a0c8-3d13717c5f8f"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "01fb9aa3-6537-4ea2-bb9a-348c4ad1061a"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 14850,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "5758a349-14ab-4776-aac1-4390675d76e9"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "6c8d94d3-f8ac-4af3-9663-6015a6481a1d"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "5455547c-48a3-45ec-855c-fa1ba0db3549"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "80cce7b1-996b-4218-886c-7750ab1946b8"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "eec1442b-fabf-483e-8909-9c3c626b6757"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "e1de84bf-47b4-4d82-a1af-1790a500ed9f"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "26c20417-8a78-4e3b-a02b-76dc7faffa64"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "65031450-6db9-4d79-b9cb-6a5ffd7e5737"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "9fece4f2-60fc-4922-9bbc-2262a4c310ab"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11400,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "fa972664-a970-459c-9d7f-41985b61c12d"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "bcb5c1c3-96c0-4a55-a799-507b14c88806"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "e5c06421-d1ca-4c81-8046-6b0d3742747d"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "7ed81baa-dd83-4703-b9f3-9238cfc9edf7"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "bbfe3474-7313-4cbc-b668-85af8ba2244e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "423c5a39-03d0-428a-9374-60dd5f46d7e1"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 14700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "114f6cde-7010-41db-9eb7-c71c619308a6"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13800,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "859c1333-8974-49f7-ba0b-7ecd826930e2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "5be9f115-9af5-4207-a7c7-9d93f5ebf203"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "7db2fdaf-3539-4bed-b258-ea3273755858"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "91e6de27-ae14-4407-944f-86c337978471"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "67d4a81c-5565-4eae-878f-1d7fe522493f"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "e0d0f85c-df30-42ff-8a19-cb51c613f3b0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "c5b26e8d-90a6-4ae1-a877-c75b12c849e0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 14700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "fa498a5b-a5e2-4847-a29e-7e80e0957e3c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13800,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "cc3275ee-6756-4f1c-bba0-564c44513f20"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "90fb2896-5bbb-48a8-b91e-324a561c9be4"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "a03ddd59-bc6c-40ec-b6db-5c87c3493905"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "7e38931b-4b16-41ba-8f8c-5c8e2a793cfa"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "4d2da832-b25b-46f1-9838-21043d08eb8b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "254ba07e-12ec-4664-8690-2319ad71d26b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 15,
+            "maxDaysSinceLastBuy": 29,
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "44d1c6bf-6d55-4125-adc4-a017e5ac3ead"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 3900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "942a582b-d7cb-4b4a-a623-2caba673ff14"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 3600,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "b3f06db6-94d1-4b2e-a778-9ae02e2b9040"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 3300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "9d2032d9-26f2-4e43-866c-904ad7bb3dc0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 3000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "894a2e96-4ad1-4e3b-ad95-507622aaf064"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 2700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "53473a46-63d9-4902-ad4b-b543ee5b0075"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 2100,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "45a1f7da-9b73-4ce7-873a-6e5d557ba26a"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 1500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "3796ea0e-ee13-45c7-a046-ee9fbcba2c90"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 0,
+            "maxTotalSpent30Days": 1,
+            "value": 5,
+            "maxPurchases": 4,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_8"
+            },
+            "reward": {
+                "chests": {
+                    "platinum": 1
+                },
+                "hardCurrency": 1500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 14
+                }
+            },
+            "id": "258e78d2-c5c1-4dbd-afc5-7478d6d9454b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "b5eb5bbe-1d3e-4b6f-a04d-fe4c8e567418"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "658ee3b5-e2ec-4332-a8d0-2bc329697822"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11850,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "d1eabba4-0756-47ad-89d1-bbc227dfa16a"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10650,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "460e7faf-1086-4226-8b0e-56dd0358de16"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "fbba7281-1582-421b-af98-64a810624b81"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "4c38dde0-1ad0-4ea1-bff4-37288fd00711"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "150d747c-06a5-4c90-a7bc-6f4ccc60fb89"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 1,
+            "maxTotalSpent30Days": 10,
+            "value": 4,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_9"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6150,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 56
+                }
+            },
+            "id": "5725dcb4-4a5e-472c-93f7-ea26e1317743"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "1f34ac31-bf5f-43dc-8466-11cd66ad94c7"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 14850,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "67ecdd8e-270c-4f2e-bafb-042442360508"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13950,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "f2343e9c-364f-49f2-b19a-668a768dae0a"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "8727f0b8-a7bc-4df2-b371-3abcc42480ca"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "c4dee142-3b16-46ea-ae39-577ae4096b51"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8550,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "73967f7b-65d0-4aa5-bc35-977c8e37b800"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "b81fa6af-f0af-410a-ab3b-e3661f9582a4"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 10,
+            "maxTotalSpent30Days": 50,
+            "value": 3,
+            "maxPurchases": 3,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_10"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8250,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 112
+                }
+            },
+            "id": "ff2d4eee-eb3d-4927-a826-a7a2d884ed30"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "6c51b1ac-349d-4dab-9c82-6e23d4754fbb"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12300,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "375e087c-ef1f-4462-babf-95cad4a6e5b9"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11400,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "aadcb5db-8916-4a6e-9f92-9ff7704076ed"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "c1f1b740-762f-4043-839f-da0ed4ad2cc2"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "ac362e00-c64e-4f9a-895c-7f3c9a3a609e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "30e3614a-9268-4f73-a803-66f4bd2b7662"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "07fb0f0b-2355-4aa2-a831-4cf8ae8ea8d6"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 50,
+            "maxTotalSpent30Days": 100,
+            "value": 3,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_7"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 140
+                }
+            },
+            "id": "7df25abf-22c5-4a8e-b914-832550f87ef0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "6932a308-c587-44f3-998c-90612ee6de5f"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 9000,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "3ca3d2c1-bb79-43a8-b5cd-99927c7a456a"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 8100,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "2532c054-a1b5-43bd-a0eb-d85dc71ffc9f"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 6900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "1c576d5b-e960-4e9a-af5e-627dc149cd7e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 5700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 210
+                }
+            },
+            "id": "78ef970b-b215-4a74-854d-06a3a7f16123"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15750,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "8b68b0d0-8823-4c11-a4ad-180a50b1828b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "5c48a66b-0716-453d-a190-64abf6eec69e"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 100,
+            "maxTotalSpent30Days": 500,
+            "value": 2,
+            "maxPurchases": 2,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_3"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 15450,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b7d": 420
+                }
+            },
+            "id": "64cf48b7-a3a2-4819-856e-8a9983b1af06"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour1",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 14700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "a3f2b2df-bf99-41de-aed3-8dca008b0f1b"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour2",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 13800,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "feafe5f5-ad09-4763-b453-4c9df9553bc0"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour3",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 12900,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "030aa680-89b6-44d9-b9dc-cb1c42c6d3e7"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour4",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 11700,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "6cfd9c86-9cd7-47ac-a71f-34ec71bee1c9"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour5",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 10500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "3934fb1b-ba23-43b4-b8ea-6467406e4a4c"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour6",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7500,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "ea4f3a76-c53e-4e6f-aa5b-f88e4fdf7a33"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour7",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "64bd801b-2764-40ca-a86e-792f5d510ce3"
+        },
+        {
+            "group": "A",
+            "tourId": "Tour8",
+            "minDaysSinceLastBuy": 29,
+            "maxDaysSinceLastBuy": "inf",
+            "minTotalSpent30Days": 500,
+            "maxTotalSpent30Days": "inf",
+            "value": 2,
+            "maxPurchases": 1,
+            "buyInfo": {
+                "productSku": "com.apollo.purchasebeta.offers.valuec1_4"
+            },
+            "reward": {
+                "chests": {
+                    "king": 1
+                },
+                "hardCurrency": 7200,
+                "items": {
+                    "33cdfa58-11a7-472b-a409-c3ce53375b81": 280
+                }
+            },
+            "id": "edb307a7-c20e-4bbb-a1ef-1baf55814408"
+        }
+    ]
+}

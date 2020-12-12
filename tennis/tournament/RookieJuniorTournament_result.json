@@ -1,0 +1,698 @@
+{
+  "rounds": {
+    "qualification": {
+      "bracketSize": 50,
+      "qualifiedPercentage": 0.5,
+      "minMatches": 3,
+      "maxMatches": 10
+    },
+    "final": {
+      "maxMatches": 20,
+      "bracketSize": 100
+    }
+  },
+  "leagues": [
+    {
+      "type": "rookie",
+      "name": "league_rookie_name",
+      "entryCost": 19000,
+      "matchRegistrationFee": 1900,
+      "matchReward": 3800,
+      "matchBagTourId": "Tour3",
+      "reward": [
+        {
+          "startRank": 1,
+          "endRank": 1,
+          "maxReward": {
+            "softCurrency": 630000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 32,
+              "epic": 32,
+              "unique": 32
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 53,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 53
+            }
+          },
+          "minReward": {
+            "softCurrency": 630000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 32,
+              "epic": 32,
+              "unique": 32
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 53,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 53
+            }
+          }
+        },
+        {
+          "startRank": 2,
+          "endRank": 2,
+          "maxReward": {
+            "softCurrency": 315000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 30,
+              "epic": 16,
+              "unique": 16
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 37,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 37
+            }
+          },
+          "minReward": {
+            "softCurrency": 315000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 30,
+              "epic": 16,
+              "unique": 16
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 37,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 37
+            }
+          }
+        },
+        {
+          "startRank": 3,
+          "endRank": 3,
+          "maxReward": {
+            "softCurrency": 189000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 27,
+              "epic": 11,
+              "unique": 11
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 21,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 21
+            }
+          },
+          "minReward": {
+            "softCurrency": 189000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 27,
+              "epic": 11,
+              "unique": 11
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 21,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 21
+            }
+          }
+        },
+        {
+          "startRank": 4,
+          "endRank": 7,
+          "maxReward": {
+            "softCurrency": 126000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 26,
+              "epic": 8,
+              "unique": 8
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7f": 32
+            }
+          },
+          "minReward": {
+            "softCurrency": 107100,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 21,
+              "epic": 7,
+              "unique": 7
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7f": 32
+            }
+          }
+        },
+        {
+          "startRank": 8,
+          "endRank": 10,
+          "maxReward": {
+            "softCurrency": 102900,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 16,
+              "epic": 7,
+              "unique": 7
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7f": 32
+            }
+          },
+          "minReward": {
+            "softCurrency": 94500,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 14,
+              "epic": 6,
+              "unique": 6
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7f": 32
+            }
+          }
+        },
+        {
+          "startRank": 11,
+          "endRank": 50,
+          "maxReward": {
+            "softCurrency": 63000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 13,
+              "epic": 4,
+              "unique": 4
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7f": 16
+            }
+          },
+          "minReward": {
+            "softCurrency": 7350,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 4,
+              "epic": 2,
+              "unique": 2
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7f": 16
+            }
+          }
+        },
+        {
+          "startRank": 51,
+          "endRank": 75,
+          "maxReward": {
+            "softCurrency": 4830,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 4,
+              "epic": 2,
+              "unique": 2
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7c": 11
+            }
+          },
+          "minReward": {
+            "softCurrency": 3570,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 2,
+              "epic": 2,
+              "unique": 2
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7c": 11
+            }
+          }
+        },
+        {
+          "startRank": 76,
+          "endRank": 100,
+          "maxReward": {
+            "softCurrency": 2100,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 2,
+              "epic": 2,
+              "unique": 2
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7c": 11
+            }
+          },
+          "minReward": {
+            "softCurrency": 2100,
+            "hardCurrency": 0,
+            "items": {
+              "common": 58,
+              "rare": 2,
+              "epic": 2,
+              "unique": 2
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7c": 11
+            }
+          }
+        }
+      ],
+      "burnCost": {
+        "multiplier": 4,
+        "base": 10
+      }
+    },
+    {
+      "type": "junior",
+      "name": "league_junior_name",
+      "entryCost": 190000,
+      "matchRegistrationFee": 19000,
+      "matchReward": 38000,
+      "matchBagTourId": "Tour5",
+      "reward": [
+        {
+          "startRank": 1,
+          "endRank": 1,
+          "maxReward": {
+            "softCurrency": 6300000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 63,
+              "epic": 63,
+              "unique": 63
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 84,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 84
+            }
+          },
+          "minReward": {
+            "softCurrency": 6300000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 63,
+              "epic": 63,
+              "unique": 63
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 84,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 84
+            }
+          }
+        },
+        {
+          "startRank": 2,
+          "endRank": 2,
+          "maxReward": {
+            "softCurrency": 3150000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 57,
+              "epic": 32,
+              "unique": 32
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 42,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 42
+            }
+          },
+          "minReward": {
+            "softCurrency": 3150000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 57,
+              "epic": 32,
+              "unique": 32
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 42,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 42
+            }
+          }
+        },
+        {
+          "startRank": 3,
+          "endRank": 3,
+          "maxReward": {
+            "softCurrency": 1890000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 54,
+              "epic": 19,
+              "unique": 19
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 32,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 32
+            }
+          },
+          "minReward": {
+            "softCurrency": 1890000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 54,
+              "epic": 19,
+              "unique": 19
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 32,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 32
+            }
+          }
+        },
+        {
+          "startRank": 4,
+          "endRank": 7,
+          "maxReward": {
+            "softCurrency": 1260000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 49,
+              "epic": 13,
+              "unique": 13
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 21,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 21
+            }
+          },
+          "minReward": {
+            "softCurrency": 1071000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 42,
+              "epic": 11,
+              "unique": 11
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 21,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 21
+            }
+          }
+        },
+        {
+          "startRank": 8,
+          "endRank": 10,
+          "maxReward": {
+            "softCurrency": 1029000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 32,
+              "epic": 10,
+              "unique": 10
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 21,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 21
+            }
+          },
+          "minReward": {
+            "softCurrency": 945000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 29,
+              "epic": 9,
+              "unique": 9
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 21,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 21
+            }
+          }
+        },
+        {
+          "startRank": 11,
+          "endRank": 50,
+          "maxReward": {
+            "softCurrency": 630000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 27,
+              "epic": 6,
+              "unique": 6
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7d": 27
+            }
+          },
+          "minReward": {
+            "softCurrency": 73500,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 4,
+              "epic": 3,
+              "unique": 3
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7d": 27
+            }
+          }
+        },
+        {
+          "startRank": 51,
+          "endRank": 75,
+          "maxReward": {
+            "softCurrency": 48300,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 4,
+              "epic": 3,
+              "unique": 3
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7d": 16
+            }
+          },
+          "minReward": {
+            "softCurrency": 35700,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 3,
+              "epic": 3,
+              "unique": 3
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7d": 16
+            }
+          }
+        },
+        {
+          "startRank": 76,
+          "endRank": 100,
+          "maxReward": {
+            "softCurrency": 21000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 3,
+              "epic": 3,
+              "unique": 3
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7d": 11
+            }
+          },
+          "minReward": {
+            "softCurrency": 21000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 84,
+              "rare": 3,
+              "epic": 3,
+              "unique": 3
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b7d": 11
+            }
+          }
+        }
+      ],
+      "burnCost": {
+        "multiplier": 4,
+        "base": 50
+      }
+    },
+    {
+      "type": "challenger",
+      "name": "league_challenger_name",
+      "entryCost": 95000,
+      "entryBlocked": true,
+      "matchRegistrationFee": 9500,
+      "matchReward": 19000,
+      "matchBagTourId": "Tour4",
+      "reward": [
+        {
+          "startRank": 1,
+          "endRank": 1,
+          "maxReward": {
+            "softCurrency": 3150000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 210,
+              "rare": 74,
+              "epic": 21,
+              "unique": 63
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 210,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 105
+            }
+          },
+          "minReward": {
+            "softCurrency": 3150000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 210,
+              "rare": 74,
+              "epic": 21,
+              "unique": 63
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 210,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 105
+            }
+          }
+        },
+        {
+          "startRank": 2,
+          "endRank": 50,
+          "maxReward": {
+            "softCurrency": 1050000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 105,
+              "rare": 32,
+              "epic": 11,
+              "unique": 21
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 105,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 53
+            }
+          },
+          "minReward": {
+            "softCurrency": 105000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 53,
+              "rare": 11,
+              "epic": 3,
+              "unique": 3
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 6,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 6
+            }
+          }
+        }
+      ],
+      "burnCost": {
+        "multiplier": 4,
+        "base": 10
+      }
+    },
+    {
+      "type": "master",
+      "name": "league_master_name",
+      "entryCost": 950000,
+      "entryBlocked": true,
+      "matchRegistrationFee": 95000,
+      "matchReward": 190000,
+      "matchBagTourId": "Tour5",
+      "reward": [
+        {
+          "startRank": 1,
+          "endRank": 1,
+          "maxReward": {
+            "softCurrency": 31500000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 263,
+              "rare": 95,
+              "epic": 27,
+              "unique": 79
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 263,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 132
+            }
+          },
+          "minReward": {
+            "softCurrency": 31500000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 263,
+              "rare": 95,
+              "epic": 27,
+              "unique": 79
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 263,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 132
+            }
+          }
+        },
+        {
+          "startRank": 2,
+          "endRank": 50,
+          "maxReward": {
+            "softCurrency": 10500000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 132,
+              "rare": 42,
+              "epic": 16,
+              "unique": 27
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 132,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 63
+            }
+          },
+          "minReward": {
+            "softCurrency": 1050000,
+            "hardCurrency": 0,
+            "items": {
+              "common": 27,
+              "rare": 6,
+              "epic": 2,
+              "unique": 2
+            },
+            "fixedItems": {
+              "33cdfa58-11a7-472b-a409-c3ce53375b81": 6,
+              "33cdfa58-11a7-472b-a409-c3ce53375b80": 6
+            }
+          }
+        }
+      ],
+      "burnCost": {
+        "multiplier": 4,
+        "base": 10
+      }
+    }
+  ]
+}

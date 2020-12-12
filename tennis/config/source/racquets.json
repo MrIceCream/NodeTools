@@ -1,0 +1,922 @@
+{
+    "4ff7510d-42fc-473c-b90d-60f4cf59481c": {
+        "metagame": {
+            "name": "racquet_beginner_name",
+            "type": 1,
+            "category": 1,
+            "rarity": 0,
+            "tour": "Tour0",
+            "baseLevel": 1,
+            "upgrades": []
+        },
+        "physics": [
+            {
+                "fronthandPower": 0.6508,
+                "fronthandAccuracy": 0.6383
+            }
+        ]
+    },
+    "37f7510d-42fc-473c-b90d-60f4cf59480b": {
+        "metagame": {
+            "name": "racquet_reign_name",
+            "type": 1,
+            "category": 11,
+            "rarity": 0,
+            "tour": "Tour1",
+            "baseLevel": 1,
+            "upgrades": [
+                {
+                    "quantity": 3,
+                    "softCost": 200,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 9,
+                    "softCost": 600,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 20,
+                    "softCost": 1400,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 60,
+                    "softCost": 2500,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 120,
+                    "softCost": 4600,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 240,
+                    "softCost": 7200,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 500,
+                    "softCost": 10900,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 1000,
+                    "softCost": 15000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 2000,
+                    "softCost": 21700,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 4000,
+                    "softCost": 27500,
+                    "hardCost": 0
+                }
+            ]
+        },
+        "physics": [
+            {
+                "fronthandPower": 0.6508,
+                "fronthandAccuracy": 0.6383,
+                "speed": 0.473
+            },
+            {
+                "fronthandPower": 0.7485,
+                "fronthandAccuracy": 0.7341,
+                "speed": 0.5439
+            },
+            {
+                "fronthandPower": 0.8461,
+                "fronthandAccuracy": 0.8298,
+                "speed": 0.6149
+            },
+            {
+                "fronthandPower": 0.9437,
+                "fronthandAccuracy": 0.9256,
+                "speed": 0.6858
+            },
+            {
+                "fronthandPower": 1.0413,
+                "fronthandAccuracy": 1.0213,
+                "speed": 0.7568
+            },
+            {
+                "fronthandPower": 1.139,
+                "fronthandAccuracy": 1.1171,
+                "speed": 0.8277
+            },
+            {
+                "fronthandPower": 1.2366,
+                "fronthandAccuracy": 1.2128,
+                "speed": 0.8986
+            },
+            {
+                "fronthandPower": 1.3342,
+                "fronthandAccuracy": 1.3086,
+                "speed": 0.9696
+            },
+            {
+                "fronthandPower": 1.4318,
+                "fronthandAccuracy": 1.4043,
+                "speed": 1.0405
+            },
+            {
+                "fronthandPower": 1.5295,
+                "fronthandAccuracy": 1.5001,
+                "speed": 1.1115
+            },
+            {
+                "fronthandPower": 1.6271,
+                "fronthandAccuracy": 1.5958,
+                "speed": 1.1824
+            }
+        ]
+    },
+    "4226a5a5-275e-41e4-a4ae-dbaf0245c881": {
+        "metagame": {
+            "name": "racquet_magnify_name",
+            "type": 1,
+            "category": 11,
+            "rarity": 2,
+            "tour": "Tour2",
+            "baseLevel": 5,
+            "upgrades": [
+                {
+                    "quantity": 3,
+                    "softCost": 7200,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 9,
+                    "softCost": 10900,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 20,
+                    "softCost": 15000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 60,
+                    "softCost": 21700,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 120,
+                    "softCost": 27500,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 240,
+                    "softCost": 45900,
+                    "hardCost": 0
+                }
+            ]
+        },
+        "physics": [
+            {
+                "backhandPower": 0.2706,
+                "fronthandPower": 0.7457,
+                "backhandAccuracy": 0.2654,
+                "fronthandAccuracy": 0.7314
+            },
+            {
+                "backhandPower": 0.3112,
+                "fronthandPower": 0.8576,
+                "backhandAccuracy": 0.3052,
+                "fronthandAccuracy": 0.8411
+            },
+            {
+                "backhandPower": 0.3518,
+                "fronthandPower": 0.9694,
+                "backhandAccuracy": 0.345,
+                "fronthandAccuracy": 0.9508
+            },
+            {
+                "backhandPower": 0.3924,
+                "fronthandPower": 1.0813,
+                "backhandAccuracy": 0.3849,
+                "fronthandAccuracy": 1.0605
+            },
+            {
+                "backhandPower": 0.433,
+                "fronthandPower": 1.1932,
+                "backhandAccuracy": 0.4247,
+                "fronthandAccuracy": 1.1702
+            },
+            {
+                "backhandPower": 0.4736,
+                "fronthandPower": 1.305,
+                "backhandAccuracy": 0.4645,
+                "fronthandAccuracy": 1.28
+            },
+            {
+                "backhandPower": 0.5142,
+                "fronthandPower": 1.4169,
+                "backhandAccuracy": 0.5043,
+                "fronthandAccuracy": 1.3897
+            },
+            {
+                "backhandPower": 0.5548,
+                "fronthandPower": 1.5287,
+                "backhandAccuracy": 0.5441,
+                "fronthandAccuracy": 1.4994
+            },
+            {
+                "backhandPower": 0.5954,
+                "fronthandPower": 1.6406,
+                "backhandAccuracy": 0.5839,
+                "fronthandAccuracy": 1.6091
+            },
+            {
+                "backhandPower": 0.6359,
+                "fronthandPower": 1.7525,
+                "backhandAccuracy": 0.6237,
+                "fronthandAccuracy": 1.7188
+            },
+            {
+                "backhandPower": 0.6765,
+                "fronthandPower": 1.8643,
+                "backhandAccuracy": 0.6635,
+                "fronthandAccuracy": 1.8285
+            }
+        ]
+    },
+    "aab464fa-7066-4da0-9dff-52d825d3ba2d": {
+        "metagame": {
+            "name": "racquet_razor_name",
+            "type": 1,
+            "category": 11,
+            "rarity": 2,
+            "tour": "Tour3",
+            "baseLevel": 5,
+            "upgrades": [
+                {
+                    "quantity": 3,
+                    "softCost": 15000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 9,
+                    "softCost": 21700,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 20,
+                    "softCost": 27500,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 60,
+                    "softCost": 35900,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 120,
+                    "softCost": 45900,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 240,
+                    "softCost": 75000,
+                    "hardCost": 0
+                }
+            ]
+        },
+        "physics": [
+            {
+                "backhandPower": 0.3866,
+                "fronthandPower": 0.4751,
+                "backhandAccuracy": 0.3792,
+                "fronthandAccuracy": 0.466
+            },
+            {
+                "backhandPower": 0.4446,
+                "fronthandPower": 0.5464,
+                "backhandAccuracy": 0.436,
+                "fronthandAccuracy": 0.5359
+            },
+            {
+                "backhandPower": 0.5026,
+                "fronthandPower": 0.6176,
+                "backhandAccuracy": 0.4929,
+                "fronthandAccuracy": 0.6058
+            },
+            {
+                "backhandPower": 0.5606,
+                "fronthandPower": 0.6889,
+                "backhandAccuracy": 0.5498,
+                "fronthandAccuracy": 0.6757
+            },
+            {
+                "backhandPower": 0.6186,
+                "fronthandPower": 0.7602,
+                "backhandAccuracy": 0.6067,
+                "fronthandAccuracy": 0.7456
+            },
+            {
+                "backhandPower": 0.6765,
+                "fronthandPower": 0.8314,
+                "backhandAccuracy": 0.6635,
+                "fronthandAccuracy": 0.8155
+            },
+            {
+                "backhandPower": 0.7345,
+                "fronthandPower": 0.9027,
+                "backhandAccuracy": 0.7204,
+                "fronthandAccuracy": 0.8854
+            },
+            {
+                "backhandPower": 0.7925,
+                "fronthandPower": 0.974,
+                "backhandAccuracy": 0.7773,
+                "fronthandAccuracy": 0.9553
+            },
+            {
+                "backhandPower": 0.8505,
+                "fronthandPower": 1.0452,
+                "backhandAccuracy": 0.8342,
+                "fronthandAccuracy": 1.0252
+            },
+            {
+                "backhandPower": 0.9085,
+                "fronthandPower": 1.1165,
+                "backhandAccuracy": 0.891,
+                "fronthandAccuracy": 1.0951
+            },
+            {
+                "backhandPower": 0.9665,
+                "fronthandPower": 1.1878,
+                "backhandAccuracy": 0.9479,
+                "fronthandAccuracy": 1.165
+            }
+        ]
+    },
+    "160c06c8-16a2-4d6b-b780-cd7ceea0b45c": {
+        "metagame": {
+            "name": "racquet_lightning_name",
+            "type": 1,
+            "category": 11,
+            "rarity": 1,
+            "tour": "Tour4",
+            "baseLevel": 3,
+            "upgrades": [
+                {
+                    "quantity": 3,
+                    "softCost": 15000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 9,
+                    "softCost": 21700,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 20,
+                    "softCost": 27500,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 60,
+                    "softCost": 35900,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 120,
+                    "softCost": 45900,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 240,
+                    "softCost": 58400,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 500,
+                    "softCost": 75000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 1000,
+                    "softCost": 104200,
+                    "hardCost": 0
+                }
+            ]
+        },
+        "physics": [
+            {
+                "fronthandPower": 0.8617,
+                "fronthandAccuracy": 0.8452
+            },
+            {
+                "fronthandPower": 0.991,
+                "fronthandAccuracy": 0.9719
+            },
+            {
+                "fronthandPower": 1.1202,
+                "fronthandAccuracy": 1.0987
+            },
+            {
+                "fronthandPower": 1.2495,
+                "fronthandAccuracy": 1.2255
+            },
+            {
+                "fronthandPower": 1.3787,
+                "fronthandAccuracy": 1.3522
+            },
+            {
+                "fronthandPower": 1.508,
+                "fronthandAccuracy": 1.479
+            },
+            {
+                "fronthandPower": 1.6372,
+                "fronthandAccuracy": 1.6058
+            },
+            {
+                "fronthandPower": 1.7665,
+                "fronthandAccuracy": 1.7326
+            },
+            {
+                "fronthandPower": 1.8957,
+                "fronthandAccuracy": 1.8593
+            },
+            {
+                "fronthandPower": 2.025,
+                "fronthandAccuracy": 1.9861
+            },
+            {
+                "fronthandPower": 2.1543,
+                "fronthandAccuracy": 2.1129
+            }
+        ]
+    },
+    "d74e955a-685b-4c8c-9011-7ff94eebb631": {
+        "metagame": {
+            "name": "racquet_new_1_name",
+            "type": 1,
+            "category": 11,
+            "rarity": 1,
+            "tour": "Tour5",
+            "baseLevel": 5,
+            "upgrades": [
+                {
+                    "quantity": 3,
+                    "softCost": 27500,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 9,
+                    "softCost": 35900,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 20,
+                    "softCost": 45900,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 60,
+                    "softCost": 58400,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 120,
+                    "softCost": 75000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 240,
+                    "softCost": 87500,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 500,
+                    "softCost": 104200,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 1000,
+                    "softCost": 183400,
+                    "hardCost": 0
+                }
+            ]
+        },
+        "physics": [
+            {
+                "fronthandPower": 0.6333,
+                "fronthandAccuracy": 0.6211,
+                "speed": 0.5203
+            },
+            {
+                "fronthandPower": 0.7282,
+                "fronthandAccuracy": 0.7143,
+                "speed": 0.5983
+            },
+            {
+                "fronthandPower": 0.8232,
+                "fronthandAccuracy": 0.8074,
+                "speed": 0.6764
+            },
+            {
+                "fronthandPower": 0.9182,
+                "fronthandAccuracy": 0.9006,
+                "speed": 0.7544
+            },
+            {
+                "fronthandPower": 1.0132,
+                "fronthandAccuracy": 0.9938,
+                "speed": 0.8324
+            },
+            {
+                "fronthandPower": 1.1082,
+                "fronthandAccuracy": 1.0869,
+                "speed": 0.9105
+            },
+            {
+                "fronthandPower": 1.2032,
+                "fronthandAccuracy": 1.1801,
+                "speed": 0.9885
+            },
+            {
+                "fronthandPower": 1.2982,
+                "fronthandAccuracy": 1.2733,
+                "speed": 1.0666
+            },
+            {
+                "fronthandPower": 1.3932,
+                "fronthandAccuracy": 1.3664,
+                "speed": 1.1446
+            },
+            {
+                "fronthandPower": 1.4882,
+                "fronthandAccuracy": 1.4596,
+                "speed": 1.2226
+            },
+            {
+                "fronthandPower": 1.5832,
+                "fronthandAccuracy": 1.5527,
+                "speed": 1.3007
+            },
+            {
+                "fronthandPower": 1.6781,
+                "fronthandAccuracy": 1.6459,
+                "speed": 1.3787
+            },
+            {
+                "fronthandPower": 1.7731,
+                "fronthandAccuracy": 1.7391,
+                "speed": 1.4568
+            }
+        ]
+    },
+    "934dc386-477d-4662-ac07-e9ec32e025c9": {
+        "metagame": {
+            "name": "racquet_new_2_name",
+            "type": 1,
+            "category": 11,
+            "rarity": 2,
+            "tour": "Tour6",
+            "baseLevel": 7,
+            "upgrades": [
+                {
+                    "quantity": 3,
+                    "softCost": 87500,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 9,
+                    "softCost": 104200,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 20,
+                    "softCost": 116700,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 60,
+                    "softCost": 150000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 120,
+                    "softCost": 183400,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 240,
+                    "softCost": 291700,
+                    "hardCost": 0
+                }
+            ]
+        },
+        "physics": [
+            {
+                "backhandPower": 0.2952,
+                "fronthandPower": 0.7703,
+                "backhandAccuracy": 0.2895,
+                "fronthandAccuracy": 0.7555
+            },
+            {
+                "backhandPower": 0.3395,
+                "fronthandPower": 0.8859,
+                "backhandAccuracy": 0.333,
+                "fronthandAccuracy": 0.8689
+            },
+            {
+                "backhandPower": 0.3838,
+                "fronthandPower": 1.0014,
+                "backhandAccuracy": 0.3764,
+                "fronthandAccuracy": 0.9822
+            },
+            {
+                "backhandPower": 0.4281,
+                "fronthandPower": 1.117,
+                "backhandAccuracy": 0.4198,
+                "fronthandAccuracy": 1.0955
+            },
+            {
+                "backhandPower": 0.4723,
+                "fronthandPower": 1.2325,
+                "backhandAccuracy": 0.4633,
+                "fronthandAccuracy": 1.2089
+            },
+            {
+                "backhandPower": 0.5166,
+                "fronthandPower": 1.3481,
+                "backhandAccuracy": 0.5067,
+                "fronthandAccuracy": 1.3222
+            },
+            {
+                "backhandPower": 0.5609,
+                "fronthandPower": 1.4636,
+                "backhandAccuracy": 0.5501,
+                "fronthandAccuracy": 1.4355
+            },
+            {
+                "backhandPower": 0.6052,
+                "fronthandPower": 1.5792,
+                "backhandAccuracy": 0.5936,
+                "fronthandAccuracy": 1.5488
+            },
+            {
+                "backhandPower": 0.6495,
+                "fronthandPower": 1.6947,
+                "backhandAccuracy": 0.637,
+                "fronthandAccuracy": 1.6622
+            },
+            {
+                "backhandPower": 0.6938,
+                "fronthandPower": 1.8103,
+                "backhandAccuracy": 0.6804,
+                "fronthandAccuracy": 1.7755
+            },
+            {
+                "backhandPower": 0.738,
+                "fronthandPower": 1.9258,
+                "backhandAccuracy": 0.7239,
+                "fronthandAccuracy": 1.8888
+            },
+            {
+                "backhandPower": 0.7823,
+                "fronthandPower": 2.0414,
+                "backhandAccuracy": 0.7673,
+                "fronthandAccuracy": 2.0022
+            },
+            {
+                "backhandPower": 0.8266,
+                "fronthandPower": 2.1569,
+                "backhandAccuracy": 0.8107,
+                "fronthandAccuracy": 2.1155
+            }
+        ]
+    },
+    "1a4808aa-b0fb-46b2-967c-44406dbd76bf": {
+        "metagame": {
+            "name": "racquet_new_3_name",
+            "type": 1,
+            "category": 11,
+            "rarity": 2,
+            "tour": "Tour7",
+            "baseLevel": 7,
+            "upgrades": [
+                {
+                    "quantity": 3,
+                    "softCost": 183400,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 9,
+                    "softCost": 216700,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 20,
+                    "softCost": 250000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 60,
+                    "softCost": 291700,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 120,
+                    "softCost": 333400,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 240,
+                    "softCost": 416700,
+                    "hardCost": 0
+                }
+            ]
+        },
+        "physics": [
+            {
+                "fronthandPower": 0.8968,
+                "fronthandAccuracy": 0.8796
+            },
+            {
+                "fronthandPower": 1.0314,
+                "fronthandAccuracy": 1.0116
+            },
+            {
+                "fronthandPower": 1.1659,
+                "fronthandAccuracy": 1.1435
+            },
+            {
+                "fronthandPower": 1.3004,
+                "fronthandAccuracy": 1.2755
+            },
+            {
+                "fronthandPower": 1.435,
+                "fronthandAccuracy": 1.4074
+            },
+            {
+                "fronthandPower": 1.5695,
+                "fronthandAccuracy": 1.5393
+            },
+            {
+                "fronthandPower": 1.704,
+                "fronthandAccuracy": 1.6713
+            },
+            {
+                "fronthandPower": 1.8385,
+                "fronthandAccuracy": 1.8032
+            },
+            {
+                "fronthandPower": 1.9731,
+                "fronthandAccuracy": 1.9352
+            },
+            {
+                "fronthandPower": 2.1076,
+                "fronthandAccuracy": 2.0671
+            },
+            {
+                "fronthandPower": 2.2421,
+                "fronthandAccuracy": 2.1991
+            },
+            {
+                "fronthandPower": 2.3766,
+                "fronthandAccuracy": 2.331
+            },
+            {
+                "fronthandPower": 2.5112,
+                "fronthandAccuracy": 2.4629
+            }
+        ]
+    },
+    "7b967ba7-8de0-4503-b542-7a4f1d4df4f6": {
+        "metagame": {
+            "name": "racquet_new_4_name",
+            "type": 1,
+            "category": 11,
+            "rarity": 0,
+            "tour": "Tour8",
+            "baseLevel": 3,
+            "upgrades": [
+                {
+                    "quantity": 3,
+                    "softCost": 210000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 9,
+                    "softCost": 230000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 20,
+                    "softCost": 250000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 60,
+                    "softCost": 300000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 120,
+                    "softCost": 380000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 240,
+                    "softCost": 450000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 500,
+                    "softCost": 530000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 1000,
+                    "softCost": 560000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 2000,
+                    "softCost": 600000,
+                    "hardCost": 0
+                },
+                {
+                    "quantity": 4000,
+                    "softCost": 700000,
+                    "hardCost": 0
+                }
+            ]
+        },
+        "physics": [
+            {
+                "fronthandPower": 0.4751,
+                "fronthandAccuracy": 0.466,
+                "speed": 1.0405
+            },
+            {
+                "fronthandPower": 0.5464,
+                "fronthandAccuracy": 0.5359,
+                "speed": 1.1966
+            },
+            {
+                "fronthandPower": 0.6176,
+                "fronthandAccuracy": 0.6058,
+                "speed": 1.3527
+            },
+            {
+                "fronthandPower": 0.6889,
+                "fronthandAccuracy": 0.6757,
+                "speed": 1.5088
+            },
+            {
+                "fronthandPower": 0.7602,
+                "fronthandAccuracy": 0.7456,
+                "speed": 1.6649
+            },
+            {
+                "fronthandPower": 0.8314,
+                "fronthandAccuracy": 0.8155,
+                "speed": 1.8209
+            },
+            {
+                "fronthandPower": 0.9027,
+                "fronthandAccuracy": 0.8854,
+                "speed": 1.977
+            },
+            {
+                "fronthandPower": 0.974,
+                "fronthandAccuracy": 0.9553,
+                "speed": 2.1331
+            },
+            {
+                "fronthandPower": 1.0452,
+                "fronthandAccuracy": 1.0252,
+                "speed": 2.2892
+            },
+            {
+                "fronthandPower": 1.1165,
+                "fronthandAccuracy": 1.0951,
+                "speed": 2.4453
+            },
+            {
+                "fronthandPower": 1.1878,
+                "fronthandAccuracy": 1.165,
+                "speed": 2.6014
+            },
+            {
+                "fronthandPower": 1.259,
+                "fronthandAccuracy": 1.2349,
+                "speed": 2.7574
+            },
+            {
+                "fronthandPower": 1.3303,
+                "fronthandAccuracy": 1.3048,
+                "speed": 2.9135
+            }
+        ]
+    }
+}

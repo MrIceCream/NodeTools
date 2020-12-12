@@ -1,0 +1,20 @@
+fbd48beb-df05-246c-da19-794aaec8c300	Full Energy	12
+b86cac89-c461-7441-8ace-d907a401804d	1 Day VIP	30
+36ab9733-2374-6424-d8dd-368f8f0efe64	3 Days VIP	75
+b471ff2c-f4cf-941e-0963-a021c19a3913	7 Days VIP	140
+30253005-1e7b-141f-2bdf-ca0226fc5a90	30 Days VIP	450
+4f07462f-865b-b4ee-88ab-3c47a24305de	180 Days VIP	1800
+ed7e54b2-f14b-6434-6b94-b27ec0a7e66f	360 Days VIP	2800
+d586dfbb-1004-b445-da60-78b14d3be11a	Gold Chest Pack	90
+0dec98bb-bac3-04a1-dbcc-49744cc01c66	Platinum Chest Pack	220
+7eb9413d-f739-34a3-580e-0476e021a787	Diamond Chest Pack	1300
+e46d27f3-514e-d4b0-8be7-a23460d510fb	Short Ranged Ammo Pack 10x	2
+89ab8be3-d703-e43a-4bae-3f5b1436baa5	Short Ranged Ammo Pack 100x	15
+6ae8d7bc-9f63-1486-bb1a-2caa822f45c5	Long Ranged Ammo Pack 10x	2
+84f461a4-d0f5-e4b6-3b4b-079fdbd40250	Long Ranged Ammo Pack 100x	15
+9c9675ba-f557-a461-c89b-843bcc930669	Premium Ammo Pack 10x	3
+467fba0d-2122-548c-c942-c402564ddb44	Premium Ammo Pack 100x	25
+6009f503-fadb-04a8-e91f-cd83c94c68a6	ChristmasPack	1800
+f8e00ffa-da85-741a-6afd-e5dfd6a9e0da	Daily Special Chest Pack	10
+0c0c052a-b595-9403-6bf1-5f749db1202e	TechPointsPack	4000
+9d594435-a87b-d477-dad8-222f3ed7167d	NewHardCurrencyPack02	200

@@ -1,0 +1,802 @@
+{
+  "temporaryPack": {
+    "refreshInterval": 86400,
+    "rewardMultiplier": 3,
+    "softPerHardByTourID": {
+      "Tour3": 104,
+      "Tour4": 115,
+      "Tour5": 150,
+      "Tour6": 194,
+      "Tour7": 340,
+      "Tour8": 902
+    }
+  },
+  "byPackId": {
+    "d187cbbd-dce6-482d-ad84-8bcfae9948b1": {
+      "type": "gemPromotion",
+      "name": "iap_gems_handful_name",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack1.promotion"
+      },
+      "reward": {
+        "hardCurrency": 270
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae9948b2": {
+      "name": "iap_gems_pouch_name",
+      "type": "gemPromotion",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack2.promotion"
+      },
+      "reward": {
+        "hardCurrency": 1485
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae9948b3": {
+      "name": "iap_gems_bucket_name",
+      "type": "gemPromotion",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack3.promotion"
+      },
+      "reward": {
+        "hardCurrency": 3510
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae9948b4": {
+      "name": "iap_gems_backpack_name",
+      "type": "gemPromotion",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack4.promotion"
+      },
+      "reward": {
+        "hardCurrency": 8100
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae9948b5": {
+      "name": "iap_gems_cart_name",
+      "type": "gemPromotion",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack5.promotion"
+      },
+      "reward": {
+        "hardCurrency": 24300
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae9948b6": {
+      "name": "iap_gems_load_name",
+      "type": "gemPromotion",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack6.promotion"
+      },
+      "reward": {
+        "hardCurrency": 54000
+      }
+    },
+    "c25945f9-fde8-4ebf-8c3f-ffe328ac0741": {
+      "type": "gem",
+      "name": "iap_gems_handful_name",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack1"
+      },
+      "reward": {
+        "hardCurrency": 200
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae994826": {
+      "name": "iap_gems_pouch_name",
+      "type": "gem",
+      "gainRatio": 10,
+      "originalValue": 1000,
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack2"
+      },
+      "reward": {
+        "hardCurrency": 1100
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae994827": {
+      "name": "iap_gems_bucket_name",
+      "type": "gem",
+      "gainRatio": 30,
+      "originalValue": 2000,
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack3"
+      },
+      "reward": {
+        "hardCurrency": 2600
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae994828": {
+      "name": "iap_gems_backpack_name",
+      "type": "gem",
+      "gainRatio": 50,
+      "originalValue": 4000,
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack4"
+      },
+      "reward": {
+        "hardCurrency": 6000
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae994829": {
+      "name": "iap_gems_cart_name",
+      "type": "gem",
+      "gainRatio": 80,
+      "originalValue": 10000,
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack5"
+      },
+      "reward": {
+        "hardCurrency": 18000
+      }
+    },
+    "d187cbbd-dce6-482d-ad84-8bcfae994820": {
+      "name": "iap_gems_load_name",
+      "type": "gem",
+      "gainRatio": 100,
+      "originalValue": 20000,
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.gems.pack6"
+      },
+      "reward": {
+        "hardCurrency": 40000
+      }
+    },
+    "68de5c3e-d333-4e86-8daf-f61b550dcf40": {
+      "name": "iap_coins_handful_name",
+      "type": "gold",
+      "buyInfo": {
+        "hardCurrency": 100
+      },
+      "reward": {
+        "softCurrency": 3500
+      }
+    },
+    "68de5c3e-d333-4e86-8daf-f61b550dcf41": {
+      "name": "iap_coins_pouch_name",
+      "type": "gold",
+      "gainRatio": 30,
+      "originalValue": 35000,
+      "buyInfo": {
+        "hardCurrency": 1000
+      },
+      "reward": {
+        "softCurrency": 45000
+      }
+    },
+    "68de5c3e-d333-4e86-8daf-f61b550dcf42": {
+      "name": "iap_coins_bucket_name",
+      "type": "gold",
+      "gainRatio": 60,
+      "originalValue": 87500,
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "softCurrency": 137500
+      }
+    },
+    "68de5c3e-d333-4e86-8daf-f61b550dcf43": {
+      "name": "iap_coins_backpack_name",
+      "type": "gold",
+      "gainRatio": 100,
+      "originalValue": 175000,
+      "buyInfo": {
+        "hardCurrency": 5000
+      },
+      "reward": {
+        "softCurrency": 325000
+      }
+    },
+    "68de5c3e-d333-4e86-8daf-f61b550dcf44": {
+      "name": "iap_coins_cart_name",
+      "type": "gold",
+      "gainRatio": 150,
+      "originalValue": 525000,
+      "buyInfo": {
+        "hardCurrency": 15000
+      },
+      "reward": {
+        "softCurrency": 1275000
+      }
+    },
+    "68de5c3e-d333-4e86-8daf-f61b550dcf45": {
+      "name": "iap_coins_load_name",
+      "type": "gold",
+      "gainRatio": 200,
+      "originalValue": 1050000,
+      "buyInfo": {
+        "hardCurrency": 30000
+      },
+      "reward": {
+        "softCurrency": 3150000
+      }
+    },
+    "03999558-9c22-4db1-b0b6-11c76353fd8c": {
+      "name": "chest pack gold",
+      "type": "chest",
+      "buyInfoPerTour": {
+        "Tour1": {
+          "hardCurrency": 260
+        },
+        "Tour2": {
+          "hardCurrency": 320
+        },
+        "Tour3": {
+          "hardCurrency": 370
+        },
+        "Tour4": {
+          "hardCurrency": 420
+        },
+        "Tour5": {
+          "hardCurrency": 520
+        },
+        "Tour6": {
+          "hardCurrency": 580
+        },
+        "Tour7": {
+          "hardCurrency": 650
+        },
+        "Tour8": {
+          "hardCurrency": 650
+        }
+      },
+      "reward": {
+        "chests": {
+          "gold": 1
+        }
+      }
+    },
+    "c8f1ecfb-614f-4e52-8afc-18ceddd69f57": {
+      "name": "chest pack platinum",
+      "type": "chest",
+      "buyInfoPerTour": {
+        "Tour1": {
+          "hardCurrency": 600
+        },
+        "Tour2": {
+          "hardCurrency": 750
+        },
+        "Tour3": {
+          "hardCurrency": 950
+        },
+        "Tour4": {
+          "hardCurrency": 1100
+        },
+        "Tour5": {
+          "hardCurrency": 1300
+        },
+        "Tour6": {
+          "hardCurrency": 1600
+        },
+        "Tour7": {
+          "hardCurrency": 1950
+        },
+        "Tour8": {
+          "hardCurrency": 1950
+        }
+      },
+      "reward": {
+        "chests": {
+          "platinum": 1
+        }
+      }
+    },
+    "cd9abe7b-9668-456d-a2d2-109fb28c3e52": {
+      "name": "chest pack king",
+      "type": "chest",
+      "buyInfoPerTour": {
+        "Tour1": {
+          "hardCurrency": 3000
+        },
+        "Tour2": {
+          "hardCurrency": 3600
+        },
+        "Tour3": {
+          "hardCurrency": 4200
+        },
+        "Tour4": {
+          "hardCurrency": 5000
+        },
+        "Tour5": {
+          "hardCurrency": 5700
+        },
+        "Tour6": {
+          "hardCurrency": 6700
+        },
+        "Tour7": {
+          "hardCurrency": 7800
+        },
+        "Tour8": {
+          "hardCurrency": 7800
+        }
+      },
+      "reward": {
+        "chests": {
+          "king": 1
+        }
+      }
+    },
+    "3b5c681b-26b1-4d1e-baf1-a3b2dee0fa5d": {
+      "name": "string rookie 10",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 15
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b6b": 10
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803aa1": {
+      "name": "string glitter 10",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 110
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7b": 10
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803aa2": {
+      "name": "string glitter 55",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 520
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7b": 50
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803aa3": {
+      "name": "string glitter 120",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 1000
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7b": 100
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ab1": {
+      "name": "string blue 10",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 110
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7c": 10
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ab2": {
+      "name": "string blue 55",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 520
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7c": 50
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ab3": {
+      "name": "string blue 120",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 1000
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7c": 100
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ac1": {
+      "name": "string pink 10",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 330
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7d": 10
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ac2": {
+      "name": "string pink 55",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 1560
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7d": 50
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ac3": {
+      "name": "string pink 120",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 3000
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7d": 100
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ad1": {
+      "name": "string purple 10",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 330
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7f": 10
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ad2": {
+      "name": "string purple 55",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 1560
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7f": 50
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ad3": {
+      "name": "string purple 120",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 3000
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b7f": 100
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ae1": {
+      "name": "string magic 10",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 1100
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b80": 10
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ae2": {
+      "name": "string magic 55",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 5200
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b80": 50
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803ae3": {
+      "name": "string magic 120",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 10000
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b80": 100
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803af1": {
+      "name": "string orange 10",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 1100
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b81": 10
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803af2": {
+      "name": "string orange 55",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 5200
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b81": 50
+        }
+      }
+    },
+    "ce52a601-8043-4cb2-b432-2eb4da803af3": {
+      "name": "string orange 120",
+      "type": "consumables",
+      "buyInfo": {
+        "hardCurrency": 10000
+      },
+      "reward": {
+        "items": {
+          "33cdfa58-11a7-472b-a409-c3ce53375b81": 100
+        }
+      }
+    },
+    "0f3050b4-ac1c-45d8-aa6d-56d3b36a8679": {
+      "name": "skin jonah wimbledon",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "cbf0b809-e602-4251-837b-eaced76b41f0"
+        ]
+      }
+    },
+    "4bf9b14a-f4ea-490a-a400-3c0c08810bbc": {
+      "name": "skin hope wimbledon",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "67ce6f57-9466-4787-a874-2658325bb496"
+        ]
+      }
+    },
+    "4400c5e5-eed0-4022-9130-b28010708617": {
+      "name": "skin florence wimbledon",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "e92b265e-6029-4b2d-94d8-54d27b2b08a0"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "f2d5f64a-b481-4a69-a205-f08d5d004dc5": {
+      "name": "skin leo wimbledon",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "35a1f277-c4a3-46e7-8eb0-81d12675f906"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "9956bdec-231c-43a2-b68b-6f092b0be34c": {
+      "name": "skin kaito wimbledon",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "55d747a5-34bb-4b10-8c97-cd88da8b818d"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "0e7015b6-8ee7-4002-9c30-7f54de35d4e1": {
+      "name": "skin vicktoria wimbledon",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "7a0fbbf1-eb76-4087-92f3-3eeb692856ee"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "51898eb6-7a0f-4cde-b951-81aaffd92824": {
+      "name": "skin diana wimbledon",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "0cfee0b1-4cef-410a-8b46-3d60f9e8c37d"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "c505ad22-c14b-402f-9b04-47d341201d00": {
+      "name": "skin luke wimbledon",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "81761e8f-f387-4ce3-9dca-227cd45bd7b4"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "6069aa3a-39ae-48e5-9132-57e0543b8cb0": {
+      "name": "skin vicktoria north star",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "d1ebce3a-deb5-4d13-98c3-0ea175b470a8"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "53793e94-dc16-450e-a2e7-4b232904d03c": {
+      "name": "skin leo carnaval outfit",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "334fd321-d1b8-406b-b360-94332326f69d"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "cdb25d59-5081-43a0-9bcc-931a322b740d": {
+      "name": "skin mei li phoenix outfit",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "d85aafee-9f01-4d26-959b-dca7d9ac0152"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "cbd2c153-be54-4a75-9264-834cf43775c1": {
+      "name": "skin florence floral outfit",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "361d31f9-9a4f-4175-9bee-ecb95a8ca93e"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "eb8e3716-f126-4d24-85ee-e66824301f30": {
+      "name": "skin kaito donut outfit",
+      "type": "skins",
+      "buyInfo": {
+        "hardCurrency": 2500
+      },
+      "reward": {
+        "skins": [
+          "982dd46b-7ea6-465c-a52f-f8e343a61ff7"
+        ]
+      },
+      "availableFrom": "2031-04-15T17:00:00.000Z"
+    },
+    "f7d9095c-9a2e-4f5a-ad03-3bb5d0f10155": {
+      "name": "bullseye ticket 1",
+      "type": "bullseyeTickets",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.bullseye.ticketpack1"
+      },
+      "reward": {
+        "bullseyeTickets": 1
+      }
+    },
+    "029bdec6-e6e0-487c-863d-c673cf37d748": {
+      "name": "bullseye ticket 6",
+      "type": "bullseyeTickets",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.bullseye.ticketpack6"
+      },
+      "reward": {
+        "bullseyeTickets": 6
+      }
+    },
+    "2e1a3bee-241e-4912-920d-9355bb8f9e97": {
+      "name": "weekly_subscription",
+      "type": "subscription",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.subscription.weekly"
+      },
+      "subscriptionInfo": {
+        "type": "weekly",
+        "freeTrial": false
+      },
+      "reward": {}
+    },
+    "feb606b0-ca96-442d-880c-6b6a836f2156": {
+      "name": "weekly_free_trial_subscription",
+      "type": "subscription",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.subscription.weeklywithfreetrial"
+      },
+      "subscriptionInfo": {
+        "type": "weekly_free_trial",
+        "freeTrial": true
+      },
+      "reward": {}
+    },
+    "a0ca04b4-5723-4c73-a712-770b68d5dd9b": {
+      "name": "monthly_subscription",
+      "type": "subscription",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.subscription.monthly"
+      },
+      "subscriptionInfo": {
+        "type": "monthly",
+        "freeTrial": false
+      },
+      "reward": {}
+    },
+    "8c47bee0-6b1c-4b4b-9051-a0e0d3a94b5f": {
+      "name": "login_pass",
+      "type": "passCard",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.passcard1"
+      },
+      "reward": {}
+    },
+    "df931070-4dc5-4149-984c-545b7d208fd4": {
+      "name": "legend_pass",
+      "type": "passCard",
+      "buyInfo": {
+        "productSku": "com.apollo.purchasebeta.passcard2"
+      },
+      "reward": {}
+    },
+    "220ca592-b450-4c95-aac1-6a66b2ae25c3": {
+      "name": "bullseye ticket 1",
+      "type": "bullseyeTickets",
+      "buyInfo": {
+        "hardCurrency": 300
+      },
+      "reward": {
+        "bullseyeTickets": 1
+      }
+    }
+  },
+  "nameChange": {
+    "freeQuantity": 2,
+    "hardCurrency": 100
+  }
+}

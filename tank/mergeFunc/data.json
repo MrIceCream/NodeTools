@@ -1,0 +1,4567 @@
+{
+  "005a29fd-1bbc-44e8-0bf8-dd817d997eba": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 260,
+    "name": "Offer New Lieutenant2 Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.new.pack02",
+      "iapExpectedPriceTier": 16,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "a61dace5-c635-544f-3999-0a700d9a8db6",
+    "soft": 0,
+    "tanks": [
+      "924f80b3-8a9a-a374-1990-30a7333e9aa3"
+    ],
+    "vipDays": 0,
+    "vipPoints": 30
+  },
+  "01748ebb-de1b-9449-39d2-8c50dd3b1cce": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "25e81d7f-ec2e-040b-da1f-fdc67d27ea09"
+    ],
+    "name": "Vip Reward 3200 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "0817a682-9def-b489-c809-7aa5107d1554": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 500,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-20T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 5850,
+    "name": "SailingDayPack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 23,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.sailingdaypack01",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-03-16T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "08b6a3b5-3ad2-2449-cb93-49f39bfbd173": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "7f31d56c-1d11-1442-1a24-81f7e95223c0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 16,
+      "minLevel": 15,
+      "paying": false
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 120,
+    "name": "NoPayUserLevelPack06",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack06",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 1600,
+    "soft": 100000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "0ad567de-9979-f4f9-8888-9119f8199d1c": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 30,
+      "maxExpenseDollars": 500,
+      "minExpenseDollars": 100,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack03",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 27,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack03",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 11000000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "0bec30f1-b520-245d-785e-14e32fb0df18": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 40,
+    "name": "40 Diamonds For Free",
+    "nicknameChanges": 0,
+    "originalPack": "dd2e3300-58ec-549c-d9c2-c629a1de925c",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "freeIap": true
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "0c0c052a-b595-9403-6bf1-5f749db1202e": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [
+      "c3c31946-53fc-e4bc-4b22-31ebd0532e52"
+    ],
+    "cycleDurationHours": 240,
+    "cycleLimit": 3,
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "TechPointsPack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 4000,
+      "tankTierPriceMultiplier": 0.2
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "techPoints": 8000,
+    "unlimitedEnergies": [
+      "2251c9f7-fcf6-c40c-ab03-78b7c6ba8092",
+      "2251c9f7-fcf6-c40c-ab03-78b7c6ba8092",
+      "2251c9f7-fcf6-c40c-ab03-78b7c6ba8092"
+    ],
+    "vipDays": 0,
+    "vipPoints": 150,
+    "vipPurchaseInfo": {
+      "deliverTime": 0,
+      "hard": 3500,
+      "tankTierPriceMultiplier": 0.2
+    }
+  },
+  "0dec98bb-bac3-04a1-dbcc-49744cc01c66": {
+    "ammo": [],
+    "category": "chest",
+    "chests": [
+      "6e11ba87-e1ff-e4b0-4a05-602e555a4226"
+    ],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Platinum Chest Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 220,
+      "tankTierPriceMultiplier": 0.2
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "1111fe2c-76a6-9469-9b11-7b1848edf797": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Piggy Bank",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.piggybank",
+      "iapExpectedPriceTier": 2,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 6
+  },
+  "1507b55f-a0ea-6476-e8d8-3dd9116cf355": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 200,
+    "name": "Offer Sergeant Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.pack03nc",
+      "iapExpectedPriceTier": 14,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "5a949c11-90c2-94b3-7aa1-b4c7dceac75e",
+    "soft": 0,
+    "tanks": [
+      "16da483a-c307-f4b2-d810-207cc91a3e88"
+    ],
+    "vipDays": 0,
+    "vipPoints": 100
+  },
+  "152ec290-d9b3-b4cd-fa5b-95063c3f73f0": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minExpenseDollars": 50,
+      "minLevel": 30,
+      "paying": true
+    },
+    "decals": [
+      "5da5f5cc-7436-b254-1897-4a42bfdf8a7c"
+    ],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PayUserLevelPack10",
+    "nicknameChanges": 0,
+    "patterns": [
+      "ab6312a9-00e3-c2f4-eba7-069fd3ae951e"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack10",
+      "iapExpectedPriceTier": 30,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 860000,
+    "tanks": [
+      "a768c2e5-eb4c-1dc4-c9da-b9e10fd6bc7d"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "1791738c-9c14-d476-0ba2-b6325444d43c": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "2.800.000 Coins Coupon 30 USD",
+    "nicknameChanges": 0,
+    "originalPack": "f08c4d7e-1d57-0401-5a16-996044bb7dd5",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack5.coupon30usd",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 2800000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 50
+  },
+  "1e3494f9-dcd3-c4d4-e957-9110d0acbb07": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "f4efc378-2945-1450-498d-d0ea43fe5333"
+    ],
+    "name": "Vip Reward 2000 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "1e769768-352d-c4cb-6947-59954534d3cb": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 100,
+    "name": "Offer New Corporal Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.new.pack01",
+      "iapExpectedPriceTier": 5,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "61707ce6-0201-14b2-4ae5-d96601b24c94",
+    "soft": 0,
+    "tanks": [
+      "9b9982c6-57e5-f4d4-ba1b-79decae6ae64"
+    ],
+    "vipDays": 0,
+    "vipPoints": 17
+  },
+  "2004dbd8-80e6-94f3-897b-51cc97bd1e1d": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "9791207d-2e33-d466-eb4f-e651e028f419"
+    ],
+    "name": "Vip Reward 1500 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "20f54ad2-87b8-147c-7ada-58428aa3c17d": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 30,
+    "name": "Offer Subscription 4",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.subscription04",
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "21472b41-ddb9-94f7-1bdf-b098d7cc731c": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minDaysSinceLastPlayed": 7,
+      "paying": false
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack08",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack08",
+      "iapExpectedPriceTier": 10,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 620000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "26a3edc7-81e9-f415-7bb7-b951dfc3b4a7": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 48,
+    "freeEnergyDays": 0,
+    "hard": 15,
+    "name": "Offer Private Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.pack01nc",
+      "iapExpectedPriceTier": 2,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [
+      "dcd28201-3219-c4c6-2b1f-11128e590042"
+    ],
+    "vipDays": 0,
+    "vipPoints": 5
+  },
+  "2bb9c7e6-0fff-f4af-0a55-9d3dd6266b9c": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 29,
+      "minLevel": 20,
+      "paying": false
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 300,
+    "name": "NoPayUserLevelPack08",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack08",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 4800,
+    "soft": 150000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "2da17cf9-7a03-d4dc-7976-aeeb973acd93": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Weekly Premium Subscription",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.subscription.weekly",
+      "iapExpectedPriceTier": 0,
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "2e156497-ed57-c495-2ba8-8db4b931eeb0": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 500,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack02",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 33,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack02",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 12000000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "2ed2bd1e-f43f-44ee-38aa-a8bcc0d142c1": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Yearly Premium Subscription",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.subscription.yearly",
+      "iapExpectedPriceTier": 60,
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 360,
+    "vipPoints": 0
+  },
+  "30253005-1e7b-141f-2bdf-ca0226fc5a90": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "30 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 450
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 30,
+    "vipPoints": 0
+  },
+  "3078a7a2-b544-1406-abd4-8706b152385e": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 500,
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 100,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-03T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 3400,
+    "name": "SpringGiftPack04",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springgiftpack04",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "34e94c9a-d4b7-c49a-da9b-384e208d11d6": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 48,
+    "freeEnergyDays": 0,
+    "hard": 160,
+    "name": "Offer Private Pack 5x",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.pack01_5xnc",
+      "iapExpectedPriceTier": 2,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [
+      "dcd28201-3219-c4c6-2b1f-11128e590042"
+    ],
+    "vipDays": 0,
+    "vipPoints": 5
+  },
+  "3675d19d-b5c1-f491-59ec-75fcf05237a6": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxEnergy": 5,
+      "maxExpenseDollars": 9,
+      "minExpenseDollars": 5,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "EnergySupplyPack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.energysupplypack01",
+      "iapExpectedPriceTier": 2,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 1600,
+    "soft": 0,
+    "tanks": [],
+    "unlimitedEnergies": [
+      "c745e05c-0440-642a-08e7-76c2db780236"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "36ab9733-2374-6424-d8dd-368f8f0efe64": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "3 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 75
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 3,
+    "vipPoints": 0
+  },
+  "397e2af0-9883-9454-b924-49b759bcf726": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 29,
+      "minExpenseDollars": 2,
+      "minLevel": 20,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 700,
+    "name": "PayUserLevelPack06",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack06",
+      "iapExpectedPriceTier": 7,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 8000,
+    "soft": 860000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 40
+  },
+  "3b4496d4-7132-e409-b9be-20b04685915b": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 500,
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 100,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack04",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack04",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 5600000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "3b5ce8c7-4040-2483-0885-ba203fc10a39": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Coupon 30 USD",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.coupons.coupon30usd",
+      "iapExpectedPriceTier": 30,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "3ba8e619-3f08-3475-6a3b-fe00501f5036": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 300,
+    "name": "Offer Lieutenant-1 Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.pack04nc",
+      "iapExpectedPriceTier": 25,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "29c4bf37-679d-f4ba-2955-0b4bc453debd",
+    "soft": 0,
+    "tanks": [
+      "cc544449-340f-1824-eaea-8cf13b5fa7a4"
+    ],
+    "vipDays": 0,
+    "vipPoints": 110
+  },
+  "3c77ba42-1a10-44eb-aa27-b776ec3e514a": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "0091f82a-0ba5-3437-29ea-757c8889d66c"
+    ],
+    "name": "Vip Reward 150 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "3da67237-714f-4452-1b98-36b6cfb87fda": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "8.000.000 Coins Coupon 8 USD",
+    "nicknameChanges": 0,
+    "originalPack": "8b570d20-b3bc-94ea-6bb8-befd4ee47afb",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack6.coupon8usd",
+      "iapExpectedPriceTier": 58,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 8000000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 270
+  },
+  "409fe0a9-3b7d-4442-8bd4-5395744dffff": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 80,
+    "name": "Offer Subscription 3",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.subscription03",
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "41bb1fbe-2963-e48e-496d-df907fa0c53a": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minDaysSinceLastPlayed": 15,
+      "paying": false
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-20T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 1650,
+    "name": "SailingDayPack08",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 66,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.sailingdaypack08",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-03-16T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "44f9f154-de0e-949f-cac6-f440cb19ff08": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 30,
+    "hard": 0,
+    "name": "Free Energy 30 days",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.unlimitedenergy",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 300
+  },
+  "467fba0d-2122-548c-c942-c402564ddb44": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0"
+      }
+    ],
+    "category": "ammo",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Premium Ammo Pack 100x",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 25,
+      "tankTierPriceMultiplier": 1
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "4ae79206-4bfc-7408-6a90-6f3a738059dd": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 12,
+      "minLevel": 11,
+      "paying": false
+    },
+    "decals": [
+      "b4b7a782-4900-3f94-b86a-5a9495886cda"
+    ],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "NoPayUserLevelPack04",
+    "nicknameChanges": 0,
+    "patterns": [
+      "979fda22-9f67-3ed4-f821-d35c5a938dc3"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack04",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 20000,
+    "tanks": [
+      "9b9982c6-57e5-f4d4-ba1b-79decae6ae64"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "4c797ae2-4d66-64fa-d8a5-6be89f45c679": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 100,
+    "name": "100 Diamonds + 7 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.vippack3",
+      "iapExpectedPriceTier": 7,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 20
+  },
+  "4c98291b-62e4-644c-da3a-a0f6ba566f72": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 60,
+    "name": "Offer Subscription 5",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.subscription05",
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "4cbbe1b4-16d0-84f6-3bf9-3a6b2e65068d": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 400,
+    "name": "400 Diamonds + 360 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.vippack6",
+      "iapExpectedPriceTier": 54,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 360,
+    "vipPoints": 212
+  },
+  "4d19bc86-602a-64fb-09be-70b379094ff7": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 240,
+    "name": "240 Diamonds Coupon 8 USD",
+    "nicknameChanges": 0,
+    "originalPack": "9d07726f-0d6f-7480-09fd-a0139785a733",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack3.coupon8usd",
+      "iapExpectedPriceTier": 2,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 5
+  },
+  "4d9235c8-9127-7411-5b5d-b5f4c45440d9": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minExpenseDollars": 99,
+      "minLevel": 30,
+      "paying": true
+    },
+    "decals": [
+      "5da5f5cc-7436-b254-1897-4a42bfdf8a7c"
+    ],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PayUserLevelPack11",
+    "nicknameChanges": 0,
+    "patterns": [
+      "ab6312a9-00e3-c2f4-eba7-069fd3ae951e"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack11",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 860000,
+    "tanks": [
+      "a768c2e5-eb4c-1dc4-c9da-b9e10fd6bc7d"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "4eac06fd-6e9f-f4b4-19dd-0c51e7bc60d5": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 4500,
+    "name": "4500 Diamonds Coupon 8 USD",
+    "nicknameChanges": 0,
+    "originalPack": "6eec716b-70b7-d463-78e5-c3db8c42b474",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack6.coupon8usd",
+      "iapExpectedPriceTier": 58,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 280
+  },
+  "4f07462f-865b-b4ee-88ab-3c47a24305de": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "180 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 1800
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 180,
+    "vipPoints": 0
+  },
+  "4fe7aa99-12ef-c42e-aaae-b8f37a8f02ab": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minDaysSinceLastPlayed": 30,
+      "minExpenseDollars": 500,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack02",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 33,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack02",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 12000000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "523ae35e-dcb1-6462-794e-4d1e1c2c0370": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minExpenseDollars": 10,
+      "minLevel": 30,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 120,
+    "name": "PayUserLevelPack08",
+    "nicknameChanges": 0,
+    "patterns": [
+      "e5cc4a5a-1606-b464-2845-2c2ad3a43011"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack08",
+      "iapExpectedPriceTier": 10,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 860000,
+    "tanks": [
+      "16da483a-c307-f4b2-d810-207cc91a3e88"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "53f3e273-479b-c4ba-2adc-2dae0c0b69dc": {
+    "ammo": [],
+    "chests": [],
+    "coupons": [
+      "3cf1bccc-6618-04de-8923-71042f7d9772"
+    ],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Vip Reward 8 USD Coupon",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "554d355f-29d2-9403-abed-e7237e3bb52c": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "7f31d56c-1d11-1442-1a24-81f7e95223c0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 5,
+      "minLevel": 3,
+      "paying": false
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "NoPayUserLevelPack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack01",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 1600,
+    "soft": 20000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "561b114d-da2a-84b7-6bb3-86ae48fc7caa": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minDaysSinceLastPlayed": 7,
+      "paying": false
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack08",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 33,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack08",
+      "iapExpectedPriceTier": 10,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 470000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "5753c9e6-3752-e451-49e1-4819a5b3aa7b": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 550,
+    "name": "550 Diamonds Coupon 8 USD",
+    "nicknameChanges": 0,
+    "originalPack": "ddc32131-c9f0-f42a-79df-46f7642c8b35",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack4.coupon8usd",
+      "iapExpectedPriceTier": 12,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 35
+  },
+  "57d2094b-68f9-9412-583c-7a5b1007344f": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "310.000 Coins For Free",
+    "nicknameChanges": 0,
+    "originalPack": "d22fd099-4c61-b418-2801-69797ee1bfe3",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "freeIap": true
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 310000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "58ec8dc1-6b6d-4469-aae0-62a48231c8f0": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "b3cf30cf-eff2-a47d-bbb3-5c7022eb0230"
+    ],
+    "name": "Vip Reward 3700 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "5abd7fe9-4761-240b-0acf-1a8ad9094624": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 500,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-03T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 6750,
+    "name": "SpringGiftPack02",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 33,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springgiftpack02",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "5b6ad4c8-8bf1-b43c-28d3-3a6752ba8728": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "860.000 Coins",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack4",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 860000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 50
+  },
+  "5ce8e4a8-83cf-249e-4adf-e29c3341150c": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Coupon 8 USD",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.coupons.coupon8usd",
+      "iapExpectedPriceTier": 8,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "6009f503-fadb-04a8-e91f-cd83c94c68a6": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [
+      "1ebba1e6-38db-1412-6b79-7bd5e837ec26"
+    ],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "ChristmasPack",
+    "nicknameChanges": 0,
+    "patterns": [
+      "520cf674-902b-0414-98cc-89ba7454bb63"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 1800
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tankParts": {
+      "ea432b65-6b47-2cc4-d93d-cb1e7fae03d5": {
+        "chassis": 15,
+        "engine": 15,
+        "muzzle": 15,
+        "track": 15,
+        "turret": 15
+      }
+    },
+    "tanks": [
+      "ea432b65-6b47-2cc4-d93d-cb1e7fae03d5"
+    ],
+    "vipDays": 0,
+    "vipPoints": 200
+  },
+  "60d3027b-45a3-54cd-3aa3-92f552ffe550": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 10,
+      "minLevel": 9,
+      "paying": false
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "NoPayUserLevelPack03",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack03",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 3200,
+    "soft": 20000,
+    "tanks": [],
+    "unlimitedEnergies": [
+      "c745e05c-0440-642a-08e7-76c2db780236"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "684b3e7f-2d0f-4411-8a33-f5f8aee50c8c": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Monthly Premium Subscription",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.subscription.monthly",
+      "iapExpectedPriceTier": 20,
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 30,
+    "vipPoints": 0
+  },
+  "689b129c-dcfc-1468-7a40-9cb134de8129": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "125.000 Coins For Free",
+    "nicknameChanges": 0,
+    "originalPack": "ddbe4c98-65dd-44d3-4883-6dec27a1ed52",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "freeIap": true
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 125000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "68b1eb4e-0e19-74a3-08ad-d5a5724feede": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxHardCurrency": 50,
+      "minExpenseDollars": 30,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 15000,
+    "name": "NewHardCurrencyPack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.newhardcurrencypack01",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "6ae8d7bc-9f63-1486-bb1a-2caa822f45c5": {
+    "ammo": [
+      {
+        "amount": 10,
+        "id": "7f31d56c-1d11-1442-1a24-81f7e95223c0"
+      }
+    ],
+    "category": "ammo",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Long Ranged Ammo Pack 10x",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 2,
+      "tankTierPriceMultiplier": 1
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "6bd0dcbf-6276-b4d4-88ee-34c02c533201": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "9066356f-d0d1-a4ed-eb1b-b29a46909cf4"
+    ],
+    "name": "Vip Reward 4400 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "6be8f232-0e52-4439-4943-a560fcb58e97": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "Offer Subscription 1",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.subscription01",
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "6eec716b-70b7-d463-78e5-c3db8c42b474": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 4500,
+    "name": "4500 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack6",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 280
+  },
+  "6f8acaf0-620b-e47f-48ad-de29a4b54821": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 30,
+      "maxExpenseDollars": 100,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack05",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 37,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack05",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 4500000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "72fbbced-07cf-74b8-f98f-7cb1fd30a92c": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 100,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack05",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack05",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 5600000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "741fe31b-0a00-64d8-7b4b-740485fb29c0": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "4dd73416-49a2-e436-2816-48d37abe278d"
+    ],
+    "name": "Vip Reward 500 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "74668578-e6c0-645d-4a1c-caf0d83e2725": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 500,
+      "minExpenseDollars": 100,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-03T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 7500,
+    "name": "SpringGiftPack03",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 40,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springgiftpack03",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "7530bae8-c5ad-64b7-39a7-934ee0bb6278": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 29,
+      "minExpenseDollars": 5,
+      "minLevel": 20,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 700,
+    "name": "PayUserLevelPack07",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack07",
+      "iapExpectedPriceTier": 10,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 8000,
+    "soft": 860000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 40
+  },
+  "77fca332-403d-b4e6-491b-ef6ff9d13d6e": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 9,
+      "minExpenseDollars": 1,
+      "minLevel": 5,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 300,
+    "name": "PayUserLevelPack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack01",
+      "iapExpectedPriceTier": 5,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 4800,
+    "soft": 150000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "78c7b30c-43f8-3433-998e-ab5d3bb7d769": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minDaysSinceLastPlayed": 15,
+      "paying": false
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-03T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 1650,
+    "name": "SpringGiftPack08",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 66,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springgiftpack08",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "797c7ba7-f790-b471-68e1-99a0e65ccdf9": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 100,
+    "name": "Offer Subscription 2",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.subscription02",
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "7b0f3cdc-3552-14af-d980-2be1b973fad1": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 500,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 27,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack01",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 11000000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "7be0e63d-d00c-143d-cb03-fdff9da0b491": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 120,
+    "name": "Offer Subscription 6",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.subscription06",
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "7c71aa6c-9703-e472-ab4e-1b01ca113d7c": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxSoftCurrency": 10000,
+      "minExpenseDollars": 30,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "NewSoftCurrencyPack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.newsoftcurrencypack01",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 26800000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "7eb9413d-f739-34a3-580e-0476e021a787": {
+    "ammo": [],
+    "category": "chest",
+    "chests": [
+      "c3c31946-53fc-e4bc-4b22-31ebd0532e52"
+    ],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Diamond Chest Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 1300,
+      "tankTierPriceMultiplier": 0.2
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "8426e93b-b53c-b472-fbfc-248c44a002dc": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 100,
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack06",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 66,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack06",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 8400000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "84f461a4-d0f5-e4b6-3b4b-079fdbd40250": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "7f31d56c-1d11-1442-1a24-81f7e95223c0"
+      }
+    ],
+    "category": "ammo",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Long Ranged Ammo Pack 100x",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 15,
+      "tankTierPriceMultiplier": 1
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "85e273d8-a328-544a-29c6-d11085df0e2f": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 500,
+      "minDaysSinceLastPlayed": 30,
+      "minExpenseDollars": 100,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack04",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 37,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack04",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 4500000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "8680580d-cbed-8410-9b69-ae4561e54cf9": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 100,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-03T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 3400,
+    "name": "SpringGiftPack05",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springgiftpack05",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "89ab8be3-d703-e43a-4bae-3f5b1436baa5": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "92d7a0db-a272-c495-a9a9-68a669a36509"
+      }
+    ],
+    "category": "ammo",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Short Ranged Ammo Pack 100x",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 15,
+      "tankTierPriceMultiplier": 1
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "89ce18c2-b283-145a-ea6f-72b2b9d03970": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 14,
+      "minLevel": 13,
+      "paying": false
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 75,
+    "name": "NoPayUserLevelPack05",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack05",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 3200,
+    "soft": 20000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 40
+  },
+  "8b2ed806-9485-346b-cbbe-46270088d000": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 220,
+    "name": "220 Diamonds + 30 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.vippack4",
+      "iapExpectedPriceTier": 18,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 30,
+    "vipPoints": 55
+  },
+  "8b570d20-b3bc-94ea-6bb8-befd4ee47afb": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "8.000.000 Coins",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack6",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 8000000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 280
+  },
+  "8b9be649-b0fb-a416-1a93-93623583c1f6": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 100,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack03",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 40,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack03",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 13500000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "8bdf55bd-25d2-444b-997e-6bec5aadcd97": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 5,
+    "decals": [],
+    "endDate": "2020-03-20T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 1100,
+    "name": "SailingDayPack07",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.sailingdaypack07",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-03-16T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "8e6f6aa9-d344-e4ee-a977-bab293961fe7": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 1700,
+    "name": "1700 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack5",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 180
+  },
+  "8f28a397-3141-24df-1abd-e71c0cf34fac": {
+    "ammo": [],
+    "chests": [],
+    "coupons": [
+      "37992bc8-0714-04e2-2b46-dcce498ae8d5"
+    ],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Vip Reward 30 USD Coupon",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "9220ce75-f93c-24b0-4b63-9bf1e1f168f2": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 5,
+    "name": "5 Diamonds + 1 Day VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.vippack1",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 1,
+    "vipPoints": 2
+  },
+  "9337bd3b-f963-540c-69d2-55e4aec0ceb3": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 100,
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-03T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 5100,
+    "name": "SpringGiftPack06",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 66,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springgiftpack06",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "93d218e7-07d9-b4d3-a932-a5ca4fc0c947": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 19,
+      "minExpenseDollars": 2,
+      "minLevel": 10,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 600,
+    "name": "PayUserLevelPack03",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack03",
+      "iapExpectedPriceTier": 7,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 8000,
+    "soft": 310000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 40
+  },
+  "97a512a4-7136-749d-982e-ab9d87bc568f": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "40.000 Coins",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack1",
+      "iapExpectedPriceTier": 2,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 40000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 5
+  },
+  "97cc58cb-c1fb-a4df-19a7-2754d62d85b0": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 1700,
+    "name": "1700 Diamonds Coupon 30 USD",
+    "nicknameChanges": 0,
+    "originalPack": "8e6f6aa9-d344-e4ee-a977-bab293961fe7",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack5.coupon30usd",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 50
+  },
+  "9bf1b29e-bea5-54eb-284a-ae37daf9a221": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "8.000.000 Coins Coupon 30 USD",
+    "nicknameChanges": 0,
+    "originalPack": "8b570d20-b3bc-94ea-6bb8-befd4ee47afb",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack6.coupon30usd",
+      "iapExpectedPriceTier": 54,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 8000000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 200
+  },
+  "9c9675ba-f557-a461-c89b-843bcc930669": {
+    "ammo": [
+      {
+        "amount": 10,
+        "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0"
+      }
+    ],
+    "category": "ammo",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Premium Ammo Pack 10x",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 3,
+      "tankTierPriceMultiplier": 1
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "9d07726f-0d6f-7480-09fd-a0139785a733": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 240,
+    "name": "240 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack3",
+      "iapExpectedPriceTier": 10,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 28
+  },
+  "9d594435-a87b-d477-dad8-222f3ed7167d": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minHardCurrency": 250
+    },
+    "decals": [
+      "5da5f5cc-7436-b254-1897-4a42bfdf8a7c"
+    ],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "NewHardCurrencyPack02",
+    "nicknameChanges": 0,
+    "patterns": [
+      "ab6312a9-00e3-c2f4-eba7-069fd3ae951e"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 200
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 100000,
+    "tanks": [
+      "ebbe4429-2717-9894-dbfc-0b8265135f22"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "9eb19a81-7f1c-74f1-5b49-33b4a1fe1b17": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "c0174481-7710-64b1-6a93-561ee5c1b7fa"
+    ],
+    "name": "Vip Reward 2500 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "a223736a-c6cf-8465-fac2-b0a4370c930a": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 500,
+    "name": "Offer Major Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.pack05nc",
+      "iapExpectedPriceTier": 51,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "a1d9d228-6ac4-645c-aa61-989dfaa62ee5",
+    "soft": 0,
+    "tanks": [
+      "e26fa45c-7bb9-8423-5b03-d19ecec02b6d"
+    ],
+    "vipDays": 0,
+    "vipPoints": 200
+  },
+  "a3de7dc0-aeec-24b0-cbce-6b6331b35d17": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 19,
+      "minLevel": 17,
+      "paying": false
+    },
+    "decals": [
+      "1ebba1e6-38db-1412-6b79-7bd5e837ec26"
+    ],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "NoPayUserLevelPack07",
+    "nicknameChanges": 0,
+    "patterns": [
+      "0916533c-5efc-b874-6a30-9add9ba04370"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack07",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 100000,
+    "tanks": [
+      "e0f6f3bd-ad77-94af-9a93-fd98b711f9d3"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "a74fd2c2-9668-1414-4926-4c964b8ba997": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 30,
+      "minExpenseDollars": 500,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 27,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack01",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 11000000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "a88659b9-6469-342b-fb0b-7912aee6f77f": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 30,
+    "name": "30 Diamonds + 3 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.vippack2",
+      "iapExpectedPriceTier": 3,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 3,
+    "vipPoints": 10
+  },
+  "aa9053a3-89ba-c4e7-baf0-14cfe63dd65a": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "New Weekly Premium Subscription",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.subscription.weekly_new",
+      "iapExpectedPriceTier": 8,
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "ae128752-18a1-f48d-fa33-071987cba150": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "9134e8c5-1a25-342b-eb2e-168288bb0277"
+    ],
+    "name": "Vip Reward 750 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "ae80b40f-1f2b-a4d1-c907-a5fb7ca398f4": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "40.000 Coins For Free",
+    "nicknameChanges": 0,
+    "originalPack": "97a512a4-7136-749d-982e-ab9d87bc568f",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "freeIap": true
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 40000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "b19d4d10-3a80-d456-3938-18a6561b3648": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 4500,
+    "name": "4500 Diamonds Coupon 30 USD",
+    "nicknameChanges": 0,
+    "originalPack": "6eec716b-70b7-d463-78e5-c3db8c42b474",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack6.coupon30usd",
+      "iapExpectedPriceTier": 54,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 200
+  },
+  "b2db61c9-a4c0-3431-9898-56971af72ec4": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 50,
+      "minDaysSinceLastPlayed": 15,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack10",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 66,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack10",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 2580000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "b471ff2c-f4cf-941e-0963-a021c19a3913": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "7 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 140
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "b6e2f7f1-2d91-c4b9-6944-9c95dee21421": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minExpenseDollars": 99,
+      "minLevel": 30,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 4500,
+    "name": "PayUserLevelPack12",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack12",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 2800000,
+    "tanks": [
+      "950da4d7-2081-6481-9b4b-578308c13be4"
+    ],
+    "vipDays": 0,
+    "vipPoints": 200
+  },
+  "b86cac89-c461-7441-8ace-d907a401804d": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "1 Day VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 30
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 1,
+    "vipPoints": 0
+  },
+  "bb1c78d3-63b6-e4fd-3abd-503180ca4c43": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 7,
+      "paying": false
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack07",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 37,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack07",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 4500000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "bc3e3d13-c319-7431-3ad7-bd529cb78db4": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 19,
+      "minExpenseDollars": 1,
+      "minLevel": 10,
+      "paying": true
+    },
+    "decals": [
+      "5da5f5cc-7436-b254-1897-4a42bfdf8a7c"
+    ],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PayUserLevelPack04",
+    "nicknameChanges": 0,
+    "patterns": [
+      "ab6312a9-00e3-c2f4-eba7-069fd3ae951e"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack04",
+      "iapExpectedPriceTier": 5,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 100000,
+    "tanks": [
+      "ebbe4429-2717-9894-dbfc-0b8265135f22"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "bcb98d1e-3c20-e442-0860-9668f2abd46a": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "860.000 Coins For Free",
+    "nicknameChanges": 0,
+    "originalPack": "5b6ad4c8-8bf1-b43c-28d3-3a6752ba8728",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "freeIap": true
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 860000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "bd7116e2-dbf5-2424-a97d-3e2f4037f036": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 240,
+    "name": "240 Diamonds For Free",
+    "nicknameChanges": 0,
+    "originalPack": "9d07726f-0d6f-7480-09fd-a0139785a733",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "freeIap": true
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "be570fe8-0764-24b5-09dc-246044ef5bc3": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "7f31d56c-1d11-1442-1a24-81f7e95223c0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minLevel": 30,
+      "paying": false
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 450,
+    "name": "NoPayUserLevelPack09",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack09",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 200000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 80
+  },
+  "c3169660-3fa6-24a3-8b7f-58ee4e82c7ff": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxEnergy": 5,
+      "maxExpenseDollars": 19,
+      "minExpenseDollars": 10,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "EnergySupplyPack02",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.energysupplypack02",
+      "iapExpectedPriceTier": 5,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 4800,
+    "soft": 0,
+    "tanks": [],
+    "unlimitedEnergies": [
+      "2251c9f7-fcf6-c40c-ab03-78b7c6ba8092"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "c3b6be11-4443-749c-985e-fac1c80b96dc": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 19,
+      "minExpenseDollars": 2,
+      "minLevel": 10,
+      "paying": true
+    },
+    "decals": [
+      "5da5f5cc-7436-b254-1897-4a42bfdf8a7c"
+    ],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PayUserLevelPack05",
+    "nicknameChanges": 0,
+    "patterns": [
+      "ab6312a9-00e3-c2f4-eba7-069fd3ae951e"
+    ],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack05",
+      "iapExpectedPriceTier": 7,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 100000,
+    "tanks": [
+      "ebbe4429-2717-9894-dbfc-0b8265135f22"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "c79434dc-de52-f404-2b34-c057d3741fb2": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 110,
+    "name": "110 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack2",
+      "iapExpectedPriceTier": 5,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 18
+  },
+  "c8e68c30-fc17-0431-2868-4f8bbc7f07e9": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 1700,
+    "name": "1700 Diamonds Coupon 8 USD",
+    "nicknameChanges": 0,
+    "originalPack": "8e6f6aa9-d344-e4ee-a977-bab293961fe7",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack5.coupon8usd",
+      "iapExpectedPriceTier": 42,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 125
+  },
+  "ca11540c-245d-54e5-f94f-81dbdeb5e226": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 550,
+    "name": "550 Diamonds For Free",
+    "nicknameChanges": 0,
+    "originalPack": "ddc32131-c9f0-f42a-79df-46f7642c8b35",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "freeIap": true
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "ca77a574-8982-e47a-f918-d2ecdfdef0ac": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "2.800.000 Coins Coupon 8 USD",
+    "nicknameChanges": 0,
+    "originalPack": "f08c4d7e-1d57-0401-5a16-996044bb7dd5",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack5.coupon8usd",
+      "iapExpectedPriceTier": 42,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 2800000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 128
+  },
+  "cadfa8f5-f545-f4f4-8ad2-1cf733ed05e3": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "Weekly Premium Subscription Test",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.subscriptiontest",
+      "iapExpectedPriceTier": 8,
+      "iapType": "subscription"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 7,
+    "vipPoints": 0
+  },
+  "cae40e18-3d78-e493-ab91-527028eedf11": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "2b761a94-d0bb-74c9-f89b-ef1f49e5a956"
+    ],
+    "name": "Vip Reward 300 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "cb7fe36a-2693-c493-fa3d-d8bee862b7ce": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 8,
+      "minLevel": 6,
+      "paying": false
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 60,
+    "name": "NoPayUserLevelPack02",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.nopayuserlevelpack02",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 1600,
+    "soft": 10000,
+    "tanks": [
+      "dcd28201-3219-c4c6-2b1f-11128e590042"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "cc2aa474-ce3c-549c-ebcd-fb234aa35ff4": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 100,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 168,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-20T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 168,
+    "freeEnergyDays": 0,
+    "hard": 3400,
+    "name": "SailingDayPack05",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.sailingdaypack05",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-03-16T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "d1d6c91e-afcd-647e-88fe-9e40188fcfdf": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack09",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack09",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 1720000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "d22fd099-4c61-b418-2801-69797ee1bfe3": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "310.000 Coins",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack3",
+      "iapExpectedPriceTier": 10,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 310000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 28
+  },
+  "d586dfbb-1004-b445-da60-78b14d3be11a": {
+    "ammo": [],
+    "category": "chest",
+    "chests": [
+      "7e858997-f68e-0425-6861-f65ecdc4e589"
+    ],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Gold Chest Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 90,
+      "tankTierPriceMultiplier": 0.2
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "d6992226-182f-a490-399d-40fd7b26573e": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 500,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-20T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 6750,
+    "name": "SailingDayPack02",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 33,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.sailingdaypack02",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-03-16T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "d7d0f2d6-6b53-f4af-7924-92fac1f3593d": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 110,
+    "name": "110 Diamonds For Free",
+    "nicknameChanges": 0,
+    "originalPack": "c79434dc-de52-f404-2b34-c057d3741fb2",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "freeIap": true
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 5
+  },
+  "d80c1ad1-8bba-94af-fba9-5e0d1704d6b3": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 30,
+      "maxExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack09",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 33,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack09",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 1300000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "d9a7bc08-9df0-042e-a8fe-f3f8eff0aa62": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "hcVipRewards": [
+      "3a7917d3-2b5c-c439-fa05-1ead62647306"
+    ],
+    "name": "Vip Reward 1000 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "dd2e3300-58ec-549c-d9c2-c629a1de925c": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 40,
+    "name": "40 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack1",
+      "iapExpectedPriceTier": 2,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 5
+  },
+  "ddbe4c98-65dd-44d3-4883-6dec27a1ed52": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "125.000 Coins",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack2",
+      "iapExpectedPriceTier": 5,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 125000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 18
+  },
+  "ddc32131-c9f0-f42a-79df-46f7642c8b35": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 550,
+    "name": "550 Diamonds",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack4",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 50
+  },
+  "e383345a-41d5-445b-e8be-ff46e03f047d": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "860.000 Coins Coupon 8 USD",
+    "nicknameChanges": 0,
+    "originalPack": "5b6ad4c8-8bf1-b43c-28d3-3a6752ba8728",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack4.coupon8usd",
+      "iapExpectedPriceTier": 12,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 860000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 35
+  },
+  "e3e6f85c-b63b-3453-0a15-bb044bbf17c7": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxEnergy": 5,
+      "minExpenseDollars": 30,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "EnergySupplyPack04",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.energysupplypack04",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 1600,
+    "soft": 0,
+    "tanks": [],
+    "unlimitedEnergies": [
+      "5312d449-fe66-c486-1af9-36ace5fd8ae3"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "e46d27f3-514e-d4b0-8be7-a23460d510fb": {
+    "ammo": [
+      {
+        "amount": 10,
+        "id": "92d7a0db-a272-c495-a9a9-68a669a36509"
+      }
+    ],
+    "category": "ammo",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Short Ranged Ammo Pack 10x",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 2,
+      "tankTierPriceMultiplier": 1
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "e56ba9e6-5482-3452-b8ee-8c73566d1022": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 500,
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 100,
+      "paying": true
+    },
+    "cycleDurationHours": 144,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-20T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 144,
+    "freeEnergyDays": 0,
+    "hard": 3400,
+    "name": "SailingDayPack04",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.sailingdaypack04",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-03-16T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "e794171d-ae93-a4e4-eb6a-a9c54e54c02b": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 30,
+      "maxExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack10",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 33,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack10",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 1720000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "e88000c9-6cc0-8451-5a1f-ea0ffcbd3f9d": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 60,
+    "name": "Offer Soldier Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.pack02nc",
+      "iapExpectedPriceTier": 4,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "d45dc29a-a679-545d-fa01-5b6831854a1b",
+    "soft": 0,
+    "tanks": [
+      "9b9982c6-57e5-f4d4-ba1b-79decae6ae64"
+    ],
+    "vipDays": 0,
+    "vipPoints": 17
+  },
+  "ea6feef2-453d-64d7-f983-705436cdbe8d": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 100,
+      "minDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 192,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-20T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 192,
+    "freeEnergyDays": 0,
+    "hard": 5100,
+    "name": "SailingDayPack06",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 66,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.sailingdaypack06",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-03-16T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "ecdfef2e-2307-64b7-6ace-812818693756": {
+    "ammo": [],
+    "category": "hardCurrency",
+    "chests": [],
+    "cycleDurationHours": 18,
+    "cycleLimit": 1,
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 40,
+    "name": "40 Diamonds Special",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.hardpack.special1",
+      "iapExpectedPriceTier": 1,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 100,
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "ed7e54b2-f14b-6434-6b94-b27ec0a7e66f": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "360 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 2800
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 360,
+    "vipPoints": 0
+  },
+  "f08c4d7e-1d57-0401-5a16-996044bb7dd5": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "2.800.000 Coins",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack5",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 2800000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 180
+  },
+  "f39cd4c3-2a17-0446-0ab4-25b5d53edf4f": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxExpenseDollars": 100,
+      "minDaysSinceLastPlayed": 30,
+      "minExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-02-26T23:59:59.271Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "SpringPack06",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springpack06",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 5600000,
+    "startDate": "2020-02-22T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "f4ae447c-63af-7454-a8fe-ac2e74b9db65": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxLevel": 19,
+      "minExpenseDollars": 1,
+      "minLevel": 10,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 600,
+    "name": "PayUserLevelPack02",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack02",
+      "iapExpectedPriceTier": 5,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 8000,
+    "soft": 310000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 40
+  },
+  "f4ae8d7d-b982-a47c-5a53-3e7a4c51c125": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 7,
+      "paying": false
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 4,
+    "decals": [],
+    "endDate": "2020-03-14T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "PolicePack07",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.policepack07",
+      "iapExpectedPriceTier": 50,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 5600000,
+    "startDate": "2020-03-10T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "f80b774d-f4ad-740c-6b54-76d7c02e8735": {
+    "ammo": [
+      {
+        "amount": 100,
+        "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0"
+      }
+    ],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxEnergy": 5,
+      "maxExpenseDollars": 29,
+      "minExpenseDollars": 20,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 50,
+    "name": "EnergySupplyPack03",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.energysupplypack03",
+      "iapExpectedPriceTier": 10,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 1600,
+    "soft": 0,
+    "tanks": [],
+    "unlimitedEnergies": [
+      "5a36b8f4-97f5-847e-c894-a2da449e653a"
+    ],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "f831b0c7-f954-4497-89d7-5cf78ed7079e": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "minExpenseDollars": 30,
+      "minLevel": 30,
+      "paying": true
+    },
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 1000,
+    "name": "PayUserLevelPack09",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.payuserlevelpack09",
+      "iapExpectedPriceTier": 15,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "score": 8000,
+    "soft": 100000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 40
+  },
+  "f8e00ffa-da85-741a-6afd-e5dfd6a9e0da": {
+    "ammo": [],
+    "category": "chest",
+    "chests": [
+      "6682fdac-2622-942c-88e7-ba10fffb4ba0"
+    ],
+    "cycleDurationHours": 18,
+    "cycleLimit": 1,
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Daily Special Chest Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 10,
+      "tankTierPriceMultiplier": 1
+    },
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "faaa6494-123a-34e9-0a39-28c43c26f7c3": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 300,
+    "name": "300 Diamonds + 180 Days VIP",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.vippack5",
+      "iapExpectedPriceTier": 45,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 180,
+    "vipPoints": 133
+  },
+  "fae9f8b9-9b25-2412-abe3-e5ea1e75cad5": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "minExpenseDollars": 500,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-03T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 5850,
+    "name": "SpringGiftPack01",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 23,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springgiftpack01",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "fbd48beb-df05-246c-da19-794aaec8c300": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 12,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Full Energy",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "hard": 12
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "fc658a16-7c8d-5468-685d-1468c79c7efd": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 50,
+      "paying": true
+    },
+    "cycleDurationHours": 96,
+    "cycleLimit": 5,
+    "decals": [],
+    "endDate": "2020-03-03T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 96,
+    "freeEnergyDays": 0,
+    "hard": 1100,
+    "name": "SpringGiftPack07",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 50,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.springgiftpack07",
+      "iapExpectedPriceTier": 20,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-02-29T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  },
+  "fe1cd5e5-2956-d46e-cb40-fc0ee3b3ae3d": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 48,
+    "freeEnergyDays": 0,
+    "hard": 180,
+    "name": "Offer New Captain Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.new.pack03",
+      "iapExpectedPriceTier": 30,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "4360ca25-4920-c4ae-8a3e-1dbb9eb1a0ab",
+    "soft": 0,
+    "tanks": [
+      "c8d1a09e-8d25-84e2-7a99-5eb03c4e8461"
+    ],
+    "vipDays": 0,
+    "vipPoints": 150
+  },
+  "ff28783a-e1f2-34d7-7ab6-4f731ff4f018": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 24,
+    "freeEnergyDays": 0,
+    "hard": 700,
+    "name": "Offer Lieutenant Colonel Pack",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.offers.pack06nc",
+      "iapExpectedPriceTier": 52,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "db3f3261-ead5-a425-9b81-ef24fb850a77",
+    "soft": 0,
+    "tanks": [
+      "b18b3713-77e1-b450-0941-346c76c16deb"
+    ],
+    "vipDays": 0,
+    "vipPoints": 310
+  },
+  "ff7e1e19-8118-f468-1a34-b1c90e0ffbf7": {
+    "ammo": [],
+    "category": "softCurrency",
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "310.000 Coins Coupon 8 USD",
+    "nicknameChanges": 0,
+    "originalPack": "d22fd099-4c61-b418-2801-69797ee1bfe3",
+    "patterns": [],
+    "purchaseInfo": {
+      "couponized": true,
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.softpack3.coupon8usd",
+      "iapExpectedPriceTier": 2,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 310000,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 5
+  },
+  "ff8a8b97-3a48-4448-b9a2-02f3e0dbbfa7": {
+    "ammo": [],
+    "chests": [],
+    "decals": [],
+    "energy": 0,
+    "expirationHours": 0,
+    "freeEnergyDays": 0,
+    "hard": 0,
+    "name": "Change Nickname",
+    "nicknameChanges": 1,
+    "patterns": [],
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.changenick",
+      "iapExpectedPriceTier": 5,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "tanks": [],
+    "vipDays": 0,
+    "vipPoints": 20
+  },
+  "ffe72023-bd11-d4cc-e881-1c0aca7ed717": {
+    "ammo": [],
+    "category": "offer",
+    "chests": [],
+    "customConditions": {
+      "maxDaysSinceLastPlayed": 15,
+      "maxExpenseDollars": 500,
+      "minExpenseDollars": 100,
+      "paying": true
+    },
+    "cycleDurationHours": 120,
+    "cycleLimit": 2,
+    "decals": [],
+    "endDate": "2020-03-20T23:59:59.000Z",
+    "energy": 0,
+    "expirationHours": 120,
+    "freeEnergyDays": 0,
+    "hard": 7500,
+    "name": "SailingDayPack03",
+    "nicknameChanges": 0,
+    "patterns": [],
+    "percentageOff": 40,
+    "purchaseInfo": {
+      "deliverTime": 0,
+      "iap": "com.magicgames.tankswar.sailingdaypack03",
+      "iapExpectedPriceTier": 60,
+      "iapType": "consumable"
+    },
+    "rankUnlocked": "e53f84d2-909f-0499-f8e9-1cc9b5420331",
+    "soft": 0,
+    "startDate": "2020-03-16T00:00:00.000Z",
+    "tanks": [],
+    "unlimitedEnergies": [],
+    "vipDays": 0,
+    "vipPoints": 0
+  }
+}

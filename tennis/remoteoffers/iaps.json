@@ -1,0 +1,1374 @@
+{
+  "productSkus": {
+    "com.apollo.purchasebeta.gems.arena1pack.promotion": {
+      "price": 1,
+      "gemsRefund": 750,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena1pack.promotion.alternative1": {
+      "price": 2,
+      "gemsRefund": 1375,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena1pack.promotion.alternative2": {
+      "price": 5,
+      "gemsRefund": 3250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena2pack.promotion": {
+      "price": 1,
+      "gemsRefund": 675,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena2pack.promotion.alternative1": {
+      "price": 5,
+      "gemsRefund": 3250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena3pack.promotion": {
+      "price": 1,
+      "gemsRefund": 1000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena3pack.promotion.alternative1": {
+      "price": 10,
+      "gemsRefund": 6750,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena4pack.promotion": {
+      "price": 5,
+      "gemsRefund": 3250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena4pack.promotion.alternative1": {
+      "price": 15,
+      "gemsRefund": 10000
+    },
+    "com.apollo.purchasebeta.gems.arena5pack.promotion": {
+      "price": 5,
+      "gemsRefund": 5500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena5pack.promotion.alternative1": {
+      "price": 15,
+      "gemsRefund": 10000
+    },
+    "com.apollo.purchasebeta.gems.arena6pack.promotion": {
+      "price": 10,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena6pack.promotion.alternative1": {
+      "price": 20,
+      "gemsRefund": 15000
+    },
+    "com.apollo.purchasebeta.gems.arena7pack.promotion": {
+      "price": 10,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena7pack.promotion.alternative1": {
+      "price": 20,
+      "gemsRefund": 15000
+    },
+    "com.apollo.purchasebeta.gems.arena8pack.promotion": {
+      "price": 10,
+      "gemsRefund": 70000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.arena8pack.promotion.alternative1": {
+      "price": 25,
+      "gemsRefund": 17500
+    },
+    "com.apollo.purchasebeta.gems.pack1": {
+      "price": 1,
+      "gemsRefund": 150,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack1.promotion": {
+      "price": 1,
+      "gemsRefund": 200,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack2": {
+      "price": 5,
+      "gemsRefund": 1000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack2.promotion": {
+      "price": 5,
+      "gemsRefund": 1500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack3": {
+      "price": 10,
+      "gemsRefund": 2500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack3.promotion": {
+      "price": 10,
+      "gemsRefund": 3250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack4": {
+      "price": 20,
+      "gemsRefund": 5000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack4.promotion": {
+      "price": 20,
+      "gemsRefund": 7500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack5": {
+      "price": 50,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack5.promotion": {
+      "price": 50,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack6": {
+      "price": 100,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.gems.pack6.promotion": {
+      "price": 100,
+      "gemsRefund": 36500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.featureoffer": {
+      "price": 1,
+      "gemsRefund": 1050,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer1": {
+      "price": 1,
+      "gemsRefund": 1050,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer2": {
+      "price": 2,
+      "gemsRefund": 1250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer3": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer4": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer5": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer6": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer7": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer8": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer9": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer10": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer11": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer12": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.specialoffer13": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.anchoredoffer1": {
+      "price": 20,
+      "gemsRefund": 5000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.bullseye.ticketpack1": {
+      "price": 1,
+      "gemsRefund": 150,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.bullseye.ticketpack6": {
+      "price": 5,
+      "gemsRefund": 1000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.subscription.weekly": {
+      "price": 5,
+      "gemsRefund": 0,
+      "type": "subscription"
+    },
+    "com.apollo.purchasebeta.subscription.weeklywithfreetrial": {
+      "price": 0,
+      "gemsRefund": 0,
+      "type": "subscription"
+    },
+    "com.apollo.purchasebeta.subscription.monthly": {
+      "price": 15,
+      "gemsRefund": 0,
+      "type": "subscription"
+    },
+    "com.apollo.purchasebeta.passcard1": {
+      "price": 2,
+      "gemsRefund": 0,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.passcard2": {
+      "price": 8,
+      "gemsRefund": 0,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_1": {
+      "price": 2,
+      "gemsRefund": 1250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_2": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_3": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_4": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_5": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_7": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.offerleft2_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_1": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_2": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_3": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_4": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_6": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_7": {
+      "price": 2,
+      "gemsRefund": 1250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_8": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_9": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_10": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_11": {
+      "price": 1,
+      "gemsRefund": 1050,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_12": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valueb5ab_13": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_1": {
+      "price": 2,
+      "gemsRefund": 1250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_2": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_3": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_4": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_5": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_6": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_7": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_8": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_9": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_10": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_11": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea_fb_12": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_2": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_3": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_4": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuec1_10": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_1": {
+      "price": 2,
+      "gemsRefund": 1250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_2": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_3": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_4": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_5": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_7": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.leftab_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeleft_1": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeleft_2": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeleft_3": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeleft_4": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeleft_5": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeleft_6": {
+      "price": 1,
+      "gemsRefund": 1050,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeleft_7": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_2": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_3": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_4": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romehighlight_10": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeright_1": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeright_2": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeright_3": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeright_4": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeright_5": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeright_6": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.romeright_7": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.paramab_noel_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.paramab_kesia_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_2": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_3": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_4": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarhighlight_10": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringleft_1": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringleft_2": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringleft_3": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringleft_4": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringleft_5": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringleft_6": {
+      "price": 1,
+      "gemsRefund": 1050,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringleft_7": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringright_1": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringright_2": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringright_3": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringright_4": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringright_5": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringright_6": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.oldstringright_7": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_2": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_3": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_4": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunar_10": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarleft_1": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarleft_2": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarleft_3": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarleft_4": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarleft_5": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarleft_6": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarleft_7": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarright_1": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarright_2": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarright_3": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarright_4": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarright_5": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarright_6": {
+      "price": 1,
+      "gemsRefund": 1050,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.lunarright_7": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_2": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_3": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_4": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valuea4_10": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_2": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_3": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_4": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_5": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_6": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_7": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_8": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_9": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_10": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine2_11": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_2": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_3": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_4": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentine_10": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_1": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_2": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_3": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_4": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_5": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_6": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_8": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.groupskinoffer_9": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_1": {
+      "price": 2,
+      "gemsRefund": 1250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_2": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_3": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_4": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_5": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_7": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinecheap_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_2": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_3": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_4": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.valentinehighlight_10": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_1": {
+      "price": 2,
+      "gemsRefund": 1250,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_2": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_3": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_4": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_5": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_7": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_8": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferleft_9": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_1": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_2": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_3": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_4": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_5": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_6": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_8": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparam_9": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_1": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_2": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_3": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_4": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_5": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_6": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_8": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferringht_9": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_1": {
+      "price": 5,
+      "gemsRefund": 3500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_2": {
+      "price": 20,
+      "gemsRefund": 15000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_3": {
+      "price": 35,
+      "gemsRefund": 22500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_4": {
+      "price": 50,
+      "gemsRefund": 30000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_5": {
+      "price": 15,
+      "gemsRefund": 10000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_6": {
+      "price": 30,
+      "gemsRefund": 20000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_7": {
+      "price": 40,
+      "gemsRefund": 25000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_8": {
+      "price": 10,
+      "gemsRefund": 6000,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_9": {
+      "price": 25,
+      "gemsRefund": 17500,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_10": {
+      "price": 75,
+      "gemsRefund": 1850,
+      "type": "consumable"
+    },
+    "com.apollo.purchasebeta.offers.skinofferparamab_11": {
+      "price": 100,
+      "gemsRefund": 2000,
+      "type": "consumable"
+    }
+  }
+}

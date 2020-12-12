@@ -1,0 +1,253 @@
+[
+    {
+        "target": 0,
+        "rewards": {
+            "softCurrency": 1
+        },
+        "extraRewards": {
+            "items": {
+                "33cdfa58-11a7-472b-a409-c3ce53375b7b": 25
+            }
+        }
+    },
+    {
+        "target": 400,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "softCurrency": 1
+        }
+    },
+    {
+        "target": 800,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "hardCurrency": 300
+        }
+    },
+    {
+        "target": 1200,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "softCurrency": 1
+        }
+    },
+    {
+        "target": 1600,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "chests": {
+                "gold": 1
+            }
+        }
+    },
+    {
+        "target": 2000,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "softCurrency": 1
+        }
+    },
+    {
+        "target": 2400,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "items": {
+                "33cdfa58-11a7-472b-a409-c3ce53375b7d": 25
+            }
+        }
+    },
+    {
+        "target": 2800,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "chests": {
+                "platinum": 1
+            }
+        }
+    },
+    {
+        "target": 3200,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "hardCurrency": 400
+        }
+    },
+    {
+        "target": 3600,
+        "rewards": {
+            "chests": {
+                "platinum": 1
+            }
+        },
+        "extraRewards": {
+            "softCurrency": 1
+        }
+    },
+    {
+        "target": 4000,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "chests": {
+                "gold": 1
+            }
+        }
+    },
+    {
+        "target": 4400,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "softCurrency": 1
+        }
+    },
+    {
+        "target": 4800,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "items": {
+                "33cdfa58-11a7-472b-a409-c3ce53375b80": 25
+            }
+        }
+    },
+    {
+        "target": 5200,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "chests": {
+                "king": 1
+            }
+        }
+    },
+    {
+        "target": 5600,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "hardCurrency": 500
+        }
+    },
+    {
+        "target": 5700,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "softCurrency": 1
+        }
+    },
+    {
+        "target": 5800,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "chests": {
+                "gold": 2
+            }
+        }
+    },
+    {
+        "target": 5900,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "chests": {
+                "platinum": 2
+            }
+        }
+    },
+    {
+        "target": 6000,
+        "rewards": {
+            "chests": {
+                "silver": 2
+            }
+        },
+        "extraRewards": {
+            "softCurrency": 1
+        }
+    },
+    {
+        "target": 6100,
+        "rewards": {
+            "chests": {
+                "gold": 2
+            }
+        },
+        "extraRewards": {
+            "items": {
+                "33cdfa58-11a7-472b-a409-c3ce53375b81": 25
+            }
+        }
+    },
+    {
+        "target": 6200,
+        "rewards": {
+            "chests": {
+                "king": 1
+            }
+        },
+        "extraRewards": {
+            "chests": {
+                "king": 1
+            }
+        }
+    }
+]

@@ -1,0 +1,163 @@
+[
+  {
+    "target": "3",
+    "rewards": {
+      "softCurrency": 200000,
+      "hardCurrency": 150,
+      "score": 3000,
+      "ammos": [
+        {
+          "id": "92d7a0db-a272-c495-a9a9-68a669a36509",
+          "amount": 100
+        }
+      ],
+      "techTreePoints": 400
+    }
+  },
+  {
+    "target": "8",
+    "rewards": {
+      "softCurrency": 100000,
+      "hardCurrency": 250,
+      "score": 3000,
+      "ammos": [
+        {
+          "id": "7f31d56c-1d11-1442-1a24-81f7e95223c0",
+          "amount": 100
+        }
+      ],
+      "techTreePoints": 300
+    }
+  },
+  {
+    "target": "16",
+    "rewards": {
+      "softCurrency": 100000,
+      "hardCurrency": 100,
+      "score": 3000,
+      "ammos": [
+        {
+          "id": "b61a30fd-c653-54cc-8bb9-862b0f9b3aa0",
+          "amount": 100
+        }
+      ],
+      "techTreePoints": 100
+    }
+  },
+  {
+    "target": "33",
+    "rewards": {
+      "softCurrency": 200000,
+      "hardCurrency": 150,
+      "score": 3000,
+      "unlimitedEnergies": [
+        "c745e05c-0440-642a-08e7-76c2db780236"
+      ],
+      "techTreePoints": 600,
+      "decals": [
+        "8d108b2d-9c4d-d804-6bcf-a3fdac63f854"
+      ]
+    }
+  },
+  {
+    "target": "76",
+    "rewards": {
+      "softCurrency": 200000,
+      "hardCurrency": 250,
+      "score": 3000,
+      "unlimitedEnergies": [
+        "c745e05c-0440-642a-08e7-76c2db780236"
+      ],
+      "techTreePoints": 1500,
+      "chests": [
+        "6e11ba87-e1ff-e4b0-4a05-602e555a4226"
+      ]
+    }
+  },
+  {
+    "target": "163",
+    "rewards": {
+      "softCurrency": 1000000,
+      "hardCurrency": 500,
+      "score": 3000,
+      "unlimitedEnergies": [
+        "2251c9f7-fcf6-c40c-ab03-78b7c6ba8092"
+      ],
+      "techTreePoints": 1800,
+      "patterns": [
+        "ce6478b9-6a08-3dd4-6918-4867743bbb5a"
+      ]
+    }
+  },
+  {
+    "target": "279",
+    "rewards": {
+      "softCurrency": 1500000,
+      "hardCurrency": 2000,
+      "score": 3000,
+      "unlimitedEnergies": [
+        "2251c9f7-fcf6-c40c-ab03-78b7c6ba8092"
+      ],
+      "techTreePoints": 2100,
+      "patterns": [
+        "fa1597f1-a50d-a454-398d-c969f6002abd"
+      ]
+    }
+  },
+  {
+    "target": "389",
+    "rewards": {
+      "softCurrency": 3000000,
+      "hardCurrency": 1000,
+      "score": 3000,
+      "unlimitedEnergies": [
+        "5a36b8f4-97f5-847e-c894-a2da449e653a"
+      ],
+      "techTreePoints": 2400,
+      "decals": [
+        "97336bc4-ac19-1422-9899-d3c2bf44d5d4"
+      ]
+    }
+  },
+  {
+    "target": "499",
+    "rewards": {
+      "softCurrency": 1000000,
+      "hardCurrency": 1000,
+      "score": 3000,
+      "unlimitedEnergies": [
+        "5a36b8f4-97f5-847e-c894-a2da449e653a"
+      ],
+      "techTreePoints": 2700,
+      "chests": [
+        "c3c31946-53fc-e4bc-4b22-31ebd0532e52"
+      ]
+    }
+  },
+  {
+    "target": "699",
+    "rewards": {
+      "softCurrency": 3000000,
+      "hardCurrency": 3700,
+      "score": 3000,
+      "unlimitedEnergies": [
+        "db211249-cacc-44b0-b8b3-957328efda6b"
+      ],
+      "techTreePoints": 3000,
+      "militaryToken": 1
+    }
+  },
+  {
+    "target": "999",
+    "rewards": {
+      "softCurrency": 8000000,
+      "hardCurrency": 3300,
+      "score": 3000,
+      "unlimitedEnergies": [
+        "5312d449-fe66-c486-1af9-36ace5fd8ae3"
+      ],
+      "techTreePoints": 3300,
+      "militaryToken": 2
+    }
+  }
+]

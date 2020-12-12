@@ -1,0 +1,1268 @@
+[
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-10-31T00:00:00Z",
+        "end": "2020-11-02T00:00:00Z",
+        "id": "fbb3c8ca-4c80-4a4e-aaf3-f00227670ffe",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferB-PriceB-ValueB1AB",
+        "start": "2020-10-31T00:00:00Z",
+        "end": "2020-11-02T00:00:00Z",
+        "id": "7c977276-44c5-446c-ae31-42cb232d725c",
+        "metadata": {
+            "storeTitleKey": "hawaiian_offer",
+            "customization": {
+                "name": "OfferB-PriceB-ValueB1AB-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferC-PriceC-ValueD8",
+        "start": "2020-10-31T00:00:00Z",
+        "end": "2020-11-02T00:00:00Z",
+        "id": "4066c65e-ecdb-4945-b7b7-b0d2ec2b3c65",
+        "metadata": {
+            "storeTitleKey": "limited_time_1",
+            "customization": {
+                "name": "Limited-Time1-OfferAsset"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "FirstSkinOfferLeft2",
+        "start": "2020-11-02T00:00:00Z",
+        "end": "2020-11-03T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "365afc02-3046-4e2d-9440-8ed174f586d8"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-02T00:00:00Z",
+        "end": "2020-11-03T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "fc69838f-46db-4893-8966-faf9ab717c39"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-02T00:00:00Z",
+        "end": "2020-11-03T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "5c8fe1d5-8f10-48a8-b91c-2d4d8550db19"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-03T00:00:00Z",
+        "end": "2020-11-04T00:00:00Z",
+        "id": "9b621f06-d317-4669-93d5-272e0ccfdea2",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "SkinOfferLeftAB",
+        "start": "2020-11-03T00:00:00Z",
+        "end": "2020-11-04T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "shanghai_masters",
+            "customization": {
+                "name": "SpringOfferAssets"
+            }
+        },
+        "parameters": {
+            "MainStringCode": "33cdfa58-11a7-472b-a409-c3ce53375b80"
+        },
+        "id": "a68de122-12be-4491-b555-a5a97cea2548"
+    },
+    {
+        "offerTemplateID": "RomeLeft",
+        "start": "2020-11-03T00:00:00Z",
+        "end": "2020-11-04T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "outback_offer_title",
+            "customization": {
+                "name": "RomeOfferAssets"
+            }
+        },
+        "id": "66beb3d6-235c-4350-95f8-d15daad0e7f9"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceB-ValueA-",
+        "start": "2020-11-04T00:00:00Z",
+        "end": "2020-11-05T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival1",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "765eb614-3ea6-4f6f-acab-28528f4d3ecd"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-04T00:00:00Z",
+        "end": "2020-11-05T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "6322a749-c4b1-4716-a257-10c8bd7fa50d"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-04T00:00:00Z",
+        "end": "2020-11-05T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "5554b024-b21a-4528-8e2e-24532f8db2c8"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-05T00:00:00Z",
+        "end": "2020-11-07T00:00:00Z",
+        "id": "b0a05735-f6c3-4996-901e-27e614e33cb5",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferB-PriceB-ValueB1AB",
+        "start": "2020-11-05T00:00:00Z",
+        "end": "2020-11-07T00:00:00Z",
+        "id": "0c48aa9c-3307-4dc7-9f3a-0b890b49578f",
+        "metadata": {
+            "storeTitleKey": "hawaiian_offer",
+            "customization": {
+                "name": "OfferB-PriceB-ValueB1AB-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferC-PriceC-ValueD8",
+        "start": "2020-11-05T00:00:00Z",
+        "end": "2020-11-07T00:00:00Z",
+        "id": "937b351a-1dbf-4013-b45e-b0cf8d228bb2",
+        "metadata": {
+            "storeTitleKey": "limited_time_1",
+            "customization": {
+                "name": "Limited-Time1-OfferAsset"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "FirstSkinOfferLeft2",
+        "start": "2020-11-07T00:00:00Z",
+        "end": "2020-11-08T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "77b0ac00-f49c-4f04-bae9-fefb485699f6"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-07T00:00:00Z",
+        "end": "2020-11-08T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "f25d7f85-b5b1-413d-a569-6ebc90d3bb31"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-07T00:00:00Z",
+        "end": "2020-11-08T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "4b7a7e9d-4705-41dc-9bba-5befe6beb48b"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-08T00:00:00Z",
+        "end": "2020-11-09T00:00:00Z",
+        "id": "e0694932-9389-4e9b-b123-3acac4764ad4",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "SkinOfferLeftAB",
+        "start": "2020-11-08T00:00:00Z",
+        "end": "2020-11-09T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "shanghai_masters",
+            "customization": {
+                "name": "SpringOfferAssets"
+            }
+        },
+        "parameters": {
+            "MainStringCode": "33cdfa58-11a7-472b-a409-c3ce53375b80"
+        },
+        "id": "c3ff0f12-8f1a-43a2-8988-9960e372d6c6"
+    },
+    {
+        "offerTemplateID": "RomeLeft",
+        "start": "2020-11-08T00:00:00Z",
+        "end": "2020-11-09T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "outback_offer_title",
+            "customization": {
+                "name": "RomeOfferAssets"
+            }
+        },
+        "id": "d6536eb0-a406-48f1-a28e-a070f6eeecf9"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceB-ValueA-",
+        "start": "2020-11-09T00:00:00Z",
+        "end": "2020-11-10T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival1",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "35f73161-d4e7-4315-b291-e942198fd11c"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-09T00:00:00Z",
+        "end": "2020-11-10T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "e84815b6-486b-4408-8680-950337328619"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-09T00:00:00Z",
+        "end": "2020-11-10T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "b18903e1-fca9-4567-93d7-ff1d0a4d03d0"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-10T00:00:00Z",
+        "end": "2020-11-12T00:00:00Z",
+        "id": "9e75d321-253b-4441-940b-181bee212391",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferB-PriceB-ValueB1AB",
+        "start": "2020-11-10T00:00:00Z",
+        "end": "2020-11-12T00:00:00Z",
+        "id": "1cb86831-c7c1-4067-87d7-9521a2ac9549",
+        "metadata": {
+            "storeTitleKey": "hawaiian_offer",
+            "customization": {
+                "name": "OfferB-PriceB-ValueB1AB-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferC-PriceC-ValueD8",
+        "start": "2020-11-10T00:00:00Z",
+        "end": "2020-11-12T00:00:00Z",
+        "id": "9a528694-ad04-47ff-90f9-4066b53e89aa",
+        "metadata": {
+            "storeTitleKey": "limited_time_1",
+            "customization": {
+                "name": "Limited-Time1-OfferAsset"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "FirstSkinOfferLeft2",
+        "start": "2020-11-12T00:00:00Z",
+        "end": "2020-11-13T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "627051b2-1b93-4bec-96b6-aef9e86faaeb"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-12T00:00:00Z",
+        "end": "2020-11-13T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "0d2bd8fe-1800-48f4-932b-ae1eb8648201"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-12T00:00:00Z",
+        "end": "2020-11-13T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "3950232e-65b8-46a1-b34c-971ecf95d332"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-13T00:00:00Z",
+        "end": "2020-11-14T00:00:00Z",
+        "id": "6cf14e5f-3a85-4301-b1e4-f2c56c7b16de",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "SkinOfferLeftAB",
+        "start": "2020-11-13T00:00:00Z",
+        "end": "2020-11-14T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "shanghai_masters",
+            "customization": {
+                "name": "SpringOfferAssets"
+            }
+        },
+        "parameters": {
+            "MainStringCode": "33cdfa58-11a7-472b-a409-c3ce53375b80"
+        },
+        "id": "eb3bbd74-755f-4f7e-98b5-8aa8450122fd"
+    },
+    {
+        "offerTemplateID": "RomeLeft",
+        "start": "2020-11-13T00:00:00Z",
+        "end": "2020-11-14T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "outback_offer_title",
+            "customization": {
+                "name": "RomeOfferAssets"
+            }
+        },
+        "id": "2cbd348a-14e4-4560-9e8c-76c81555eaa3"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceB-ValueA-",
+        "start": "2020-11-14T00:00:00Z",
+        "end": "2020-11-15T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival1",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "3be24d35-49ce-4a1e-ad37-edd3d829bd93"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-14T00:00:00Z",
+        "end": "2020-11-15T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "fdd4d81d-719f-4175-ac19-9cd7deb48517"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-14T00:00:00Z",
+        "end": "2020-11-15T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "1f6335ce-4611-4e4b-9210-31b3f237b0a1"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-15T00:00:00Z",
+        "end": "2020-11-17T00:00:00Z",
+        "id": "f6d5e515-706a-421f-ada5-dccd1ee689e2",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferB-PriceB-ValueB1AB",
+        "start": "2020-11-15T00:00:00Z",
+        "end": "2020-11-17T00:00:00Z",
+        "id": "9e19cd47-014e-4af7-b4b6-41075a905f1d",
+        "metadata": {
+            "storeTitleKey": "hawaiian_offer",
+            "customization": {
+                "name": "OfferB-PriceB-ValueB1AB-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferC-PriceC-ValueD8",
+        "start": "2020-11-15T00:00:00Z",
+        "end": "2020-11-17T00:00:00Z",
+        "id": "37369c92-3d0f-4c62-9835-0970a0c4de86",
+        "metadata": {
+            "storeTitleKey": "limited_time_1",
+            "customization": {
+                "name": "Limited-Time1-OfferAsset"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "FirstSkinOfferLeft2",
+        "start": "2020-11-17T00:00:00Z",
+        "end": "2020-11-18T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "0dc8f8e0-c527-453c-9e71-4e96e82bcbda"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-17T00:00:00Z",
+        "end": "2020-11-18T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "2f9b65e9-3562-440b-8657-c6db35f27e54"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-17T00:00:00Z",
+        "end": "2020-11-18T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "d5ba4532-8bc0-4266-987d-04e5776fb711"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-18T00:00:00Z",
+        "end": "2020-11-19T00:00:00Z",
+        "id": "88594a45-b113-400f-bb83-fadf504914cf",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "SkinOfferLeftAB",
+        "start": "2020-11-18T00:00:00Z",
+        "end": "2020-11-19T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "shanghai_masters",
+            "customization": {
+                "name": "SpringOfferAssets"
+            }
+        },
+        "parameters": {
+            "MainStringCode": "33cdfa58-11a7-472b-a409-c3ce53375b80"
+        },
+        "id": "27ec02db-36e1-4c1d-b9ea-20f5222acd44"
+    },
+    {
+        "offerTemplateID": "RomeLeft",
+        "start": "2020-11-18T00:00:00Z",
+        "end": "2020-11-19T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "outback_offer_title",
+            "customization": {
+                "name": "RomeOfferAssets"
+            }
+        },
+        "id": "a3b9d383-e0e1-4fec-a07a-158f6899e5ed"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceB-ValueA-",
+        "start": "2020-11-19T00:00:00Z",
+        "end": "2020-11-20T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival1",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "5514d2b9-2950-4967-a96a-78c5321176ae"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-19T00:00:00Z",
+        "end": "2020-11-20T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "c5abfb19-8311-421f-8f15-9d2786bc7e42"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-19T00:00:00Z",
+        "end": "2020-11-20T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "c264fdc4-e4d9-456d-b596-de9a94a215aa"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-20T00:00:00Z",
+        "end": "2020-11-22T00:00:00Z",
+        "id": "95788c57-4a14-48e2-bc50-c225048b3817",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferB-PriceB-ValueB1AB",
+        "start": "2020-11-20T00:00:00Z",
+        "end": "2020-11-22T00:00:00Z",
+        "id": "3e243a40-f3ae-4446-8a84-19cd112e3579",
+        "metadata": {
+            "storeTitleKey": "hawaiian_offer",
+            "customization": {
+                "name": "OfferB-PriceB-ValueB1AB-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferC-PriceC-ValueD8",
+        "start": "2020-11-20T00:00:00Z",
+        "end": "2020-11-22T00:00:00Z",
+        "id": "c46220c4-3d19-47b3-ae96-c2d9c192e8cd",
+        "metadata": {
+            "storeTitleKey": "limited_time_1",
+            "customization": {
+                "name": "Limited-Time1-OfferAsset"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "FirstSkinOfferLeft2",
+        "start": "2020-11-22T00:00:00Z",
+        "end": "2020-11-23T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "c5781b46-6850-4d3a-a6a2-02521b037223"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-22T00:00:00Z",
+        "end": "2020-11-23T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "e529ce9e-715d-436b-973f-c41993d05250"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-22T00:00:00Z",
+        "end": "2020-11-23T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "4e9ea0dc-ef35-4a0d-ae3b-36afbb310991"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-23T00:00:00Z",
+        "end": "2020-11-24T00:00:00Z",
+        "id": "c8845b1a-4522-49ec-96bc-578351db6913",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "SkinOfferLeftAB",
+        "start": "2020-11-23T00:00:00Z",
+        "end": "2020-11-24T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "shanghai_masters",
+            "customization": {
+                "name": "SpringOfferAssets"
+            }
+        },
+        "parameters": {
+            "MainStringCode": "33cdfa58-11a7-472b-a409-c3ce53375b80"
+        },
+        "id": "064d0d34-3dee-4874-80ba-a6f77025381b"
+    },
+    {
+        "offerTemplateID": "RomeLeft",
+        "start": "2020-11-23T00:00:00Z",
+        "end": "2020-11-24T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "outback_offer_title",
+            "customization": {
+                "name": "RomeOfferAssets"
+            }
+        },
+        "id": "b68a7349-a268-4611-a596-d34eca3688bd"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceB-ValueA-",
+        "start": "2020-11-24T00:00:00Z",
+        "end": "2020-11-25T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival1",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "d14e73f7-8142-4c72-b494-dca639898ed5"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-24T00:00:00Z",
+        "end": "2020-11-25T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "3a3bc152-4002-4313-b632-18556dfa0330"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-24T00:00:00Z",
+        "end": "2020-11-25T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "1dc31bf5-033a-4e74-95da-a7955a03d01b"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-25T00:00:00Z",
+        "end": "2020-11-27T00:00:00Z",
+        "id": "4a9f75dd-da1b-46b7-a073-2e9fbb42705c",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferB-PriceB-ValueB1AB",
+        "start": "2020-11-25T00:00:00Z",
+        "end": "2020-11-27T00:00:00Z",
+        "id": "874f893a-7017-42e6-a7fa-8dcf48871e0a",
+        "metadata": {
+            "storeTitleKey": "hawaiian_offer",
+            "customization": {
+                "name": "OfferB-PriceB-ValueB1AB-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferC-PriceC-ValueD8",
+        "start": "2020-11-25T00:00:00Z",
+        "end": "2020-11-27T00:00:00Z",
+        "id": "126dcff8-f11a-4b42-8233-27659adb1065",
+        "metadata": {
+            "storeTitleKey": "limited_time_1",
+            "customization": {
+                "name": "Limited-Time1-OfferAsset"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "FirstSkinOfferLeft2",
+        "start": "2020-11-27T00:00:00Z",
+        "end": "2020-11-28T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "36fa7c0b-e545-4212-a95c-410c55c8a3dd"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-27T00:00:00Z",
+        "end": "2020-11-28T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "a5a4c8dc-2edc-4994-b2c5-8edebb529991"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-27T00:00:00Z",
+        "end": "2020-11-28T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "dc54c837-ab15-4800-9a54-17d529986d2d"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-28T00:00:00Z",
+        "end": "2020-11-29T00:00:00Z",
+        "id": "eaac6c25-d9f5-4866-a830-f41dcf7debbc",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "SkinOfferLeftAB",
+        "start": "2020-11-28T00:00:00Z",
+        "end": "2020-11-29T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "shanghai_masters",
+            "customization": {
+                "name": "SpringOfferAssets"
+            }
+        },
+        "parameters": {
+            "MainStringCode": "33cdfa58-11a7-472b-a409-c3ce53375b80"
+        },
+        "id": "34591db1-ce4d-4e6c-bffa-fc1227b33ea3"
+    },
+    {
+        "offerTemplateID": "RomeLeft",
+        "start": "2020-11-28T00:00:00Z",
+        "end": "2020-11-29T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "outback_offer_title",
+            "customization": {
+                "name": "RomeOfferAssets"
+            }
+        },
+        "id": "0aecb631-0486-432b-9a25-b9192f7077f4"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceB-ValueA-",
+        "start": "2020-11-29T00:00:00Z",
+        "end": "2020-11-30T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival1",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "79a64fb0-1d6b-4a43-95d9-12cb8b523c5f"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-11-29T00:00:00Z",
+        "end": "2020-11-30T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "3b4f97a8-b6f6-4ed4-93e5-deeec707fc6a"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-11-29T00:00:00Z",
+        "end": "2020-11-30T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "472e75ae-3bb2-4760-8e79-dc91b208dde1"
+    },
+    {
+        "offerTemplateID": "OfferA-PriceA-ValueA-",
+        "start": "2020-11-30T00:00:00Z",
+        "end": "2020-12-02T00:00:00Z",
+        "id": "b26dbf5e-d21b-4186-b119-8a84534201aa",
+        "metadata": {
+            "storeTitleKey": "blue_bbq",
+            "customization": {
+                "name": "OfferA-PriceA-ValueA-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferB-PriceB-ValueB1AB",
+        "start": "2020-11-30T00:00:00Z",
+        "end": "2020-12-02T00:00:00Z",
+        "id": "97185ec4-9ec6-46fd-b62c-39cbb57ba585",
+        "metadata": {
+            "storeTitleKey": "hawaiian_offer",
+            "customization": {
+                "name": "OfferB-PriceB-ValueB1AB-OfferAssets"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "OfferC-PriceC-ValueD8",
+        "start": "2020-11-30T00:00:00Z",
+        "end": "2020-12-02T00:00:00Z",
+        "id": "5f61105e-9219-47bb-9765-2aefb9436400",
+        "metadata": {
+            "storeTitleKey": "limited_time_1",
+            "customization": {
+                "name": "Limited-Time1-OfferAsset"
+            }
+        }
+    },
+    {
+        "offerTemplateID": "FirstSkinOfferLeft2",
+        "start": "2020-12-02T00:00:00Z",
+        "end": "2020-12-03T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "3a06cb82-a105-4d57-b9aa-7c32073b5f6a"
+    },
+    {
+        "offerTemplateID": "OfferB-PriceC-ValueB5AB",
+        "start": "2020-12-02T00:00:00Z",
+        "end": "2020-12-03T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "lunar_new_year_title2",
+            "customization": {
+                "name": "ChristmasOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "e7c3f680-d507-4732-8649-7eb2e6fb74b8"
+    },
+    {
+        "offerTemplateID": "OfferC-PriceD-ValueC1",
+        "start": "2020-12-02T00:00:00Z",
+        "end": "2020-12-03T00:00:00Z",
+        "metadata": {
+            "storeTitleKey": "autumn_carnival2",
+            "customization": {
+                "name": "AutumnCarnivalOfferAssets"
+            },
+            "hooks": [
+                {
+                    "type": "Home"
+                },
+                {
+                    "type": "Store"
+                }
+            ]
+        },
+        "id": "04c9d343-f59e-4fcb-99dc-390cbf6318db"
+    }
+]
