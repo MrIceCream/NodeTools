@@ -1,16 +1,16 @@
 const fs = require('fs')
 const path = require('path')
-const TARGE = 'Tennis'
-const OFFER_TARGE = 'Tennis/remoteoffers'
+const TARGE = __dirname+'/Tennis'
+const OFFER_TARGE = __dirname+'/Tennis/remoteoffers'
 
 const UPLOAD_FILES = [
-    '/Users/mac/Project/tennis-go/apollo/tennis-backend/config/metagame/prod/iaps.json',
-    '/Users/mac/Project/tennis-client/Trunk/.localization.lock',
-    '/Users/mac/Project/tennis-go/apollo/tennis-backend/config/metagame/prod/purchase_packs.json',
-    '/Users/mac/Project/tennis-go/apollo/tennis-backend/config/metagame/prod/player_items_store.json',
+    '/Users/mac/GitProjects/tennis-server/apollo/tennis-backend/config/metagame/prod/iaps.json',
+    '/Users/mac/GitProjects/tennis-client/trunk-dev/.localization.lock',
+    '/Users/mac/GitProjects/tennis-server/apollo/tennis-backend/config/metagame/prod/purchase_packs.json',
+    '/Users/mac/GitProjects/tennis-server/apollo/tennis-backend/config/metagame/prod/player_items_store.json',
 ]
 
-const OFFER_DIR = '/Users/mac/Project/tennis-go/apollo/tennis-backend/config/remoteoffers'
+const OFFER_DIR = '/Users/mac/GitProjects/tennis-server/apollo/tennis-backend/config/remoteoffers'
 const OFFER_INSTANCE = '/files/offer_instances.json'
 const OFFER_INSTANCE_PROD = '/files/offer_instances_prod.json'
 
