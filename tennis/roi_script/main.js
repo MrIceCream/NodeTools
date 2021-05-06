@@ -51,14 +51,16 @@ function dealFile(filePath, fileName, totalFiles) {
                 tempPayMonth = values[3].substr(0, 7);
                 let tempCountry = values[7];
                 let tempPrice = values[10].result;
-                if (tempCreateMonth == '2020-06' && _filterItemId.indexOf(tempItemId) == -1) { // 筛选注册玩家
+                if (tempCreateMonth == '2020-07' && _filterItemId.indexOf(tempItemId) == -1) { // 筛选注册玩家
                     handleData(tempCountry, tempPayMonth, tempUserId, tempPrice);
                 }
             }
         });
     }).then(function () {
         for (const key in _monthResult) {
-            _totalList.push(_monthResult[key]);
+            if(tempPayMonth == _monthResult[key].month){
+                _totalList.push(_monthResult[key]);
+            }
         }
         _completeFiles++;
 
