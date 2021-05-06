@@ -32,6 +32,7 @@ function change_repeat_uuid() {
 	const DIR_PATH = '/Users/mac/GitProjects/tennis-server/apollo/tennis-backend/config/remoteoffers/files/'
 	const CHECK_LIST = [
 		'offer_instances_prod.json',
+		'offer_instances_stag.json',
 		'offer_instances.json'
 	]
 	let uuidSet = new Set()
